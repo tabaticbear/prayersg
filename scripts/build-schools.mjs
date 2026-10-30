@@ -75,8 +75,9 @@ const clean = (v) => {
 };
 const titleCase = (s) =>
   s && s.toLowerCase().replace(/(^|[\s(\-/.&])([a-z])/g, (_, p, c) => p + c.toUpperCase()).replace(/\b(Moe|Sap|Ip|Ite|Jc)\b/g, (w) => w.toUpperCase());
-// Names differ slightly between MOE datasets (case, spacing, punctuation), so compare letters and digits only.
-const keyOf = (name) => String(name ?? "").toUpperCase().replace(/[^A-Z0-9]/g, "");
+// Names differ slightly between MOE datasets (case, spacing, punctuation, and
+// "Admiralty Secondary" vs "Admiralty Secondary School"), so compare letters and digits only.
+const keyOf = (name) => String(name ?? "").toUpperCase().replace(/[^A-Z0-9]/g, "").replace(/SCHOOL$/, "");
 const yes = (v) => String(v ?? "").trim().toLowerCase() === "yes";
 
 async function geocode(postal, cache) {
