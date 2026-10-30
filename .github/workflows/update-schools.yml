@@ -1,0 +1,44 @@
+name: Update school data
+
+# Pulls MOE's school directory from data.gov.sg, geocodes it with OneMap,
+# and commits data/schools.json. Runs when the script changes, monthly,
+# or by hand from the Actions tab.
+on:
+  push:
+    paths:
+      - scripts/build-schools.mjs
+      - .github/workflows/update-schools.yml
+  schedule:
+    - cron: "17 3 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-schools
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/build-schools.mjs
+        env:
+          DATA_GOV_SG_API_KEY: ${{ secrets.DATA_GOV_SG_API_KEY }}
+      - name: Commit data if it changed
+        run: |
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update school data from MOE / data.gov.sg"
+            git push
+          fi

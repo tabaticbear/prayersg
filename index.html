@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pray for Singapore · Schools</title>
+  <meta name="description" content="A map of every MOE primary and secondary school in Singapore, with prayer points for each.">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="map" aria-label="Map of schools in Singapore"></div>
+
+  <aside id="panel">
+    <header class="panel-head">
+      <p class="eyebrow">Pray for Singapore</p>
+      <h1>Schools</h1>
+      <div class="progress" aria-live="polite">
+        <div class="bar"><span id="progress-fill"></span></div>
+        <p id="progress-text">Loading schools…</p>
+      </div>
+    </header>
+
+    <section id="list-view">
+      <div class="filters">
+        <input id="search" type="search" placeholder="Search a school or area…" autocomplete="off">
+        <div class="chips" id="level-chips" role="group" aria-label="School level"></div>
+        <div class="row">
+          <select id="zone" aria-label="Region">
+            <option value="">All regions</option>
+          </select>
+          <label class="toggle"><input type="checkbox" id="hide-prayed"> Hide prayed</label>
+        </div>
+      </div>
+      <button id="pray-through" class="primary-btn">Pray through these schools</button>
+      <p id="list-count" class="muted"></p>
+      <ul id="list" class="school-list"></ul>
+    </section>
+
+    <section id="detail-view" hidden></section>
+
+    <section id="empty-view" hidden>
+      <h2>No school data yet</h2>
+      <p>The school list is built from MOE's School Directory on data.gov.sg. Run the <strong>Update school data</strong> workflow in the repository's Actions tab, or locally:</p>
+      <pre>node scripts/build-schools.mjs</pre>
+    </section>
+
+    <footer class="panel-foot muted">
+      School data: Ministry of Education via data.gov.sg. Map: OneMap, Singapore Land Authority.
+    </footer>
+  </aside>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
