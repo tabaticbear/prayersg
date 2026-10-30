@@ -77,7 +77,12 @@ const titleCase = (s) =>
   s && s.toLowerCase().replace(/(^|[\s(\-/.&])([a-z])/g, (_, p, c) => p + c.toUpperCase()).replace(/\b(Moe|Sap|Ip|Ite|Jc)\b/g, (w) => w.toUpperCase());
 // Names differ slightly between MOE datasets (case, spacing, punctuation, and
 // "Admiralty Secondary" vs "Admiralty Secondary School"), so compare letters and digits only.
-const keyOf = (name) => String(name ?? "").toUpperCase().replace(/[^A-Z0-9]/g, "").replace(/SCHOOL$/, "");
+const keyOf = (name) =>
+  String(name ?? "")
+    .toUpperCase()
+    .replace(/\((PRIMARY|SECONDARY)\)/, "") // "Catholic High School (Primary)"
+    .replace(/[^A-Z0-9]/g, "")
+    .replace(/SCHOOL$/, "");
 const yes = (v) => String(v ?? "").trim().toLowerCase() === "yes";
 
 async function geocode(postal, cache) {
@@ -118,7 +123,6 @@ async function main() {
     console.log(`Fetching ${d.name}…`);
     const rows = await fetchDataset(d.id).catch((e) => (console.warn(`! ${e.message}`), []));
     console.log(`  ${rows.length} rows; columns: ${Object.keys(rows[0] ?? {}).join(", ")}`);
-    for (const r of rows.slice(0, 3)) console.log(`  sample: ${JSON.stringify(r)}`);
     return rows;
   };
   // Column names vary between dataset versions, so match by pattern.
@@ -137,7 +141,9 @@ async function main() {
   ];
 
   const nameCol = (rows) => col(rows, /^school_name$/i, /school.*name/i) ?? "school_name";
-  const ccaCol = col(ccaRows, /cca_generic_name/i, /cca_customi[sz]ed_name/i, /cca.*name/i, /^cca/i);
+  // In MOE's CCA data, cca_grouping_desc holds the activity ("CHOIR") and
+  // cca_generic_name its category ("VISUAL AND PERFORMING ARTS").
+  const ccaCol = col(ccaRows, /cca_grouping_desc/i, /cca_customi[sz]ed_name/i, /cca.*name/i, /^cca/i);
   const ccas = groupBy(ccaRows, nameCol(ccaRows), (r) => titleCase(clean(r[ccaCol])));
   const progCol = col(progRows, /programme_desc/i, /programme/i);
   const programmes = groupBy(progRows, nameCol(progRows), (r) => clean(r[progCol]));
