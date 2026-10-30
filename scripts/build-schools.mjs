@@ -75,7 +75,8 @@ const clean = (v) => {
 };
 const titleCase = (s) =>
   s && s.toLowerCase().replace(/(^|[\s(\-/.&])([a-z])/g, (_, p, c) => p + c.toUpperCase()).replace(/\b(Moe|Sap|Ip|Ite|Jc)\b/g, (w) => w.toUpperCase());
-const keyOf = (name) => String(name ?? "").trim().toUpperCase();
+// Names differ slightly between MOE datasets (case, spacing, punctuation), so compare letters and digits only.
+const keyOf = (name) => String(name ?? "").toUpperCase().replace(/[^A-Z0-9]/g, "");
 const yes = (v) => String(v ?? "").trim().toLowerCase() === "yes";
 
 async function geocode(postal, cache) {
@@ -134,7 +135,7 @@ async function main() {
   ];
 
   const nameCol = (rows) => col(rows, /^school_name$/i, /school.*name/i) ?? "school_name";
-  const ccaCol = col(ccaRows, /cca_customi[sz]ed_name/i, /cca_generic_name/i, /cca.*name/i, /^cca/i);
+  const ccaCol = col(ccaRows, /cca_generic_name/i, /cca_customi[sz]ed_name/i, /cca.*name/i, /^cca/i);
   const ccas = groupBy(ccaRows, nameCol(ccaRows), (r) => titleCase(clean(r[ccaCol])));
   const progCol = col(progRows, /programme_desc/i, /programme/i);
   const programmes = groupBy(progRows, nameCol(progRows), (r) => clean(r[progCol]));
@@ -152,7 +153,7 @@ async function main() {
     for (const [key, kind, n] of distinctCols) {
       const title = clean(r[key]);
       if (title && !items.some((i) => i.title === title))
-        items.push({ kind: kind.toUpperCase(), domain: clean(r[`${kind}_domain${n}`]), title });
+        items.push({ kind: kind.toUpperCase(), domain: clean(r[`${kind}_domain${n}`] ?? r[`${kind}_domain${n || 1}`]), title });
     }
     if (items.length) distinctive.set(k, items);
   }
@@ -160,6 +161,13 @@ async function main() {
     `Enrichment: CCAs for ${ccas.size} schools (column ${ccaCol}), programmes for ${programmes.size}, ` +
       `distinctive programmes for ${distinctive.size} (columns ${distinctCols.map((m) => m[0]).join(", ") || "none"})`
   );
+
+  const known = new Set(general.map((r) => keyOf(r.school_name)));
+  for (const [label, rows] of [["CCA", ccaRows], ["programme", progRows], ["distinctive", distinctRows]]) {
+    const nc = nameCol(rows);
+    const unmatched = [...new Set(rows.map((r) => r[nc]).filter((n) => !known.has(keyOf(n))))];
+    if (unmatched.length) console.warn(`! ${unmatched.length} ${label} school names not in the directory, e.g. ${unmatched.slice(0, 5).join(" | ")}`);
+  }
 
   const cache = JSON.parse(await readFile(CACHE, "utf8").catch(() => "{}"));
   const schools = [];
