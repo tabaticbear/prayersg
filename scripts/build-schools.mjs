@@ -90,10 +90,10 @@ async function geocode(postal, cache) {
   return ll;
 }
 
-function groupBy(rows, pick) {
+function groupBy(rows, nameCol, pick) {
   const map = new Map();
   for (const r of rows) {
-    const k = keyOf(r.school_name);
+    const k = keyOf(r[nameCol]);
     const v = pick(r);
     if (!k || !v) continue;
     if (!map.has(k)) map.set(k, new Set());
@@ -114,7 +114,18 @@ async function main() {
     const d = find(word);
     if (!d) return [];
     console.log(`Fetching ${d.name}…`);
-    return fetchDataset(d.id).catch((e) => (console.warn(`! ${e.message}`), []));
+    const rows = await fetchDataset(d.id).catch((e) => (console.warn(`! ${e.message}`), []));
+    console.log(`  ${rows.length} rows; columns: ${Object.keys(rows[0] ?? {}).join(", ")}`);
+    return rows;
+  };
+  // Column names vary between dataset versions, so match by pattern.
+  const col = (rows, ...patterns) => {
+    const keys = Object.keys(rows[0] ?? {});
+    for (const re of patterns) {
+      const k = keys.find((key) => re.test(key));
+      if (k) return k;
+    }
+    return null;
   };
   const [ccaRows, progRows, distinctRows] = [
     await load("co-curricular"),
@@ -122,18 +133,33 @@ async function main() {
     await load("distinctive"),
   ];
 
-  const ccas = groupBy(ccaRows, (r) => titleCase(clean(r.cca_generic_name ?? r.cca_customized_name)));
-  const programmes = groupBy(progRows, (r) => clean(r.moe_programme_desc));
+  const nameCol = (rows) => col(rows, /^school_name$/i, /school.*name/i) ?? "school_name";
+  const ccaCol = col(ccaRows, /cca_customi[sz]ed_name/i, /cca_generic_name/i, /cca.*name/i, /^cca/i);
+  const ccas = groupBy(ccaRows, nameCol(ccaRows), (r) => titleCase(clean(r[ccaCol])));
+  const progCol = col(progRows, /programme_desc/i, /programme/i);
+  const programmes = groupBy(progRows, nameCol(progRows), (r) => clean(r[progCol]));
+
+  // Distinctive programmes: ALP (Applied Learning) and LLP (Learning for Life)
+  // columns such as alp_domain/alp_title, llp_domain1/llp_title1, …
+  const distinctCols = Object.keys(distinctRows[0] ?? {})
+    .map((k) => k.match(/^(alp|llp)_title(\d*)$/i))
+    .filter(Boolean);
+  const distinctName = nameCol(distinctRows);
   const distinctive = new Map();
   for (const r of distinctRows) {
-    const items = [];
-    if (clean(r.alp_title)) items.push({ kind: "ALP", domain: clean(r.alp_domain), title: clean(r.alp_title) });
-    for (const n of ["1", "2"]) {
-      if (clean(r[`llp_title${n}`]))
-        items.push({ kind: "LLP", domain: clean(r[`llp_domain${n}`]), title: clean(r[`llp_title${n}`]) });
+    const k = keyOf(r[distinctName]);
+    const items = distinctive.get(k) ?? [];
+    for (const [key, kind, n] of distinctCols) {
+      const title = clean(r[key]);
+      if (title && !items.some((i) => i.title === title))
+        items.push({ kind: kind.toUpperCase(), domain: clean(r[`${kind}_domain${n}`]), title });
     }
-    if (items.length) distinctive.set(keyOf(r.school_name), items);
+    if (items.length) distinctive.set(k, items);
   }
+  console.log(
+    `Enrichment: CCAs for ${ccas.size} schools (column ${ccaCol}), programmes for ${programmes.size}, ` +
+      `distinctive programmes for ${distinctive.size} (columns ${distinctCols.map((m) => m[0]).join(", ") || "none"})`
+  );
 
   const cache = JSON.parse(await readFile(CACHE, "utf8").catch(() => "{}"));
   const schools = [];

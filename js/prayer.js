@@ -26,7 +26,7 @@ export function verseFor(school) {
 }
 
 const isPrimary = (s) => /primary/i.test(s.level ?? "");
-const isSecondary = (s) => /secondary/i.test(s.level ?? "");
+const isSecondary = (s) => /secondary|\bS1\b/i.test(s.level ?? ""); // incl. "Mixed Level (S1-Jc2)"
 const isJC = (s) => /junior college|centralised/i.test(s.level ?? "");
 
 export function prayerPoints(s) {

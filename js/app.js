@@ -6,8 +6,14 @@ const LEVELS = [
   { key: "Mixed Levels", label: "Mixed levels", color: "var(--mixed)", hex: "#7b4bb3", on: true },
   { key: "Junior College", label: "JC / CI", color: "var(--jc)", hex: "#2d8a6a", on: false },
 ];
-const levelOf = (s) =>
-  LEVELS.find((l) => l.key === s.level) ?? (/centralised/i.test(s.level ?? "") ? LEVELS[3] : LEVELS[2]);
+// MOE labels look like "Primary", "Secondary (S1-S5)", "Mixed Level (S1-Jc2)", "Junior College", "Centralised Institute"
+const levelOf = (s) => {
+  const lv = s.level ?? "";
+  if (/^primary/i.test(lv)) return LEVELS[0];
+  if (/^secondary/i.test(lv)) return LEVELS[1];
+  if (/junior college|centralised/i.test(lv)) return LEVELS[3];
+  return LEVELS[2];
+};
 
 const PRAYED_KEY = "prayersg:prayed:schools";
 const store = {
