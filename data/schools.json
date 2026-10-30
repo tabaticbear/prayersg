@@ -1,6 +1,6 @@
 {
  "source": "Ministry of Education, via data.gov.sg (Singapore Open Data Licence). Locations: OneMap, Singapore Land Authority.",
- "generatedAt": "2026-10-30T13:22:26.890Z",
+ "generatedAt": "2026-10-30T14:17:48.426Z",
  "count": 337,
  "schools": [
   {
@@ -34,9 +34,10 @@
     "Tamil"
    ],
    "ccas": [
-    "English Language & Drama",
-    "Sports Club",
-    "Visual Arts"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -72,7 +73,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Cyl"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -108,7 +113,11 @@
     "Tamil"
    ],
    "ccas": [
-    "N2 Cluster Football"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -144,10 +153,11 @@
     "Tamil"
    ],
    "ccas": [
-    "(Ai) Robotics Club",
-    "Dance Ensemble",
-    "Green Service Club",
-    "Outdoor Leader"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED MUSIC PROGRAMME"
@@ -184,13 +194,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Bilingual Drama",
-    "Brownie",
-    "Cub Scout",
-    "Dance",
-    "Festival Drums",
-    "Innovator",
-    "Modular Sports"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -201,7 +208,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "L.E.A.D.: Character and Leadership Development through Outdoor Education Programme"
     }
    ]
@@ -237,7 +244,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -272,11 +284,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Chess Club",
-    "Drama Club",
-    "Festive Drums",
-    "New Media Arts",
-    "Stem Innovators"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -312,10 +323,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Dance Ensemble",
-    "Eureka Club",
-    "Gaia Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -351,13 +362,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Anderson Science Academy",
-    "Anderson Theatre Circle",
-    "Art Club",
-    "Band",
-    "Environmental Club",
-    "Health Leaders",
-    "Infocomm Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ELECTIVE PROGRAMME IN MALAY LANGUAGE FOR SECONDARY SCHOOL (EMAS)",
@@ -397,23 +406,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Ava Club",
-    "Badminton",
-    "Basketball",
-    "Cldds",
-    "Community Champions Council",
-    "Dance Society",
-    "Debate And Creative Communications",
-    "Odac",
-    "Photographic Society",
-    "Red Cross Youth",
-    "Stageworks",
-    "Stem",
-    "Strategist Society",
-    "Students' Council",
-    "Symphonic Band",
-    "Tldds",
-    "Visual Arts Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (TAMIL)"
@@ -451,7 +447,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -485,7 +487,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -518,7 +525,12 @@
    "motherTongues": [
     "Chinese"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (CHINESE)"
    ],
@@ -554,18 +566,11 @@
     "Chinese"
    ],
    "ccas": [
-    "Ac Ug",
-    "Acsian Theatre",
-    "Christian Fellowship",
-    "Dance Society",
-    "Debate And Oratorical Society",
-    "First Aid Unit",
-    "Interact Club",
-    "Media Resource Crew",
-    "Photographic Society",
-    "Pixel Labs",
-    "Stem Council",
-    "Students' Council"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "DRAMA ELECTIVE PROGRAMME",
@@ -606,10 +611,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Christian Society",
-    "Dance",
-    "Debates",
-    "Drama"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -620,7 +626,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "Building Character through Sports and Outdoor Education"
     }
    ]
@@ -659,44 +665,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Acreatives",
-    "Acs Indeponline",
-    "Acsi Stage",
-    "Acspression",
-    "Acstronomy Club",
-    "Active Acsians",
-    "Boarding School Junior Common Room Committee",
-    "Boys' Brigade (Bb)",
-    "Cultural Performing Arts Club",
-    "Dance Venia",
-    "Debate Club",
-    "Drama Club",
-    "Editorial Board",
-    "Environment Focus Group",
-    "Guitar Orchestra",
-    "Health And Fitness Club",
-    "Humanities Society @ Ac",
-    "Interact Club",
-    "Library",
-    "Mathematics Competition Team",
-    "Media Production Ac",
-    "Media Resource",
-    "National Civil Defence Cadet Corps (Ncdcc)",
-    "National Police Cadet Corps (Npcc)",
-    "Philharmonic Orchestra",
-    "Photographic Society",
-    "Prefectorial Board",
-    "Robotics Technology Society",
-    "Science Research Challenge",
-    "St John Brigade (Sjb)",
-    "Student Council / House",
-    "Symphonic Band",
-    "Ventures",
-    "Vocal Accord",
-    "Wind Ensemble",
-    "Young Diplomats' Society",
-    "Young Entrepreneurs' Society",
-    "Young Innovators' Society"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "MUSIC ELECTIVE PROGRAMME",
@@ -736,18 +709,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Chess Club",
-    "Christian Fellowship",
-    "Cub Scouts",
-    "External Artistic Gymnastics",
-    "External Golf",
-    "External Taekwondo",
-    "External Track & Field",
-    "External Wushu",
-    "Junior Vibez",
-    "Science Club",
-    "String Orchestra"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -758,7 +723,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "All for Sports, Sports for All @ ACS(Junior)"
     }
    ]
@@ -795,11 +760,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Debate Club",
-    "Ecomaker Club",
-    "Infocomm Media Club",
-    "Public Address Club",
-    "Synergy"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -810,7 +774,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "Building Character Through Sports"
     }
    ]
@@ -846,7 +810,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -882,8 +851,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Young Montfortian Associates",
-    "Young Scientist Programme"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -894,7 +866,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Youth Leadership",
      "title": "DINAN Leadership Programme"
     }
    ]
@@ -930,12 +902,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Av Crew",
-    "Greenovation",
-    "Mediacomm Club",
-    "Percussion Band",
-    "Student Council"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -972,10 +943,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Curioste Club",
-    "Entrepreneur Club",
-    "Merit Club",
-    "Service Learning Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1012,11 +983,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Dance",
-    "Environmental Science Club",
-    "Makerspace",
-    "Ukulele Ensemble"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1051,7 +1022,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1085,7 +1062,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1121,11 +1103,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance",
-    "Drama",
-    "Environment Club",
-    "Infocomm & Media Club",
-    "Youth Flying Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1161,14 +1142,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance Society",
-    "Infocomm Club",
-    "Media Production Club",
-    "Ncc",
-    "Ncdcc",
-    "Npcc",
-    "Science & Environment Club",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1203,7 +1180,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1238,7 +1220,11 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1275,7 +1261,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Media And Tech Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1311,9 +1300,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art And Design Club",
-    "Media Kids",
-    "Stem Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1349,7 +1339,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1385,23 +1380,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Audio Visual Aid",
-    "Badminton",
-    "Basketball",
-    "Boys' Brigade",
-    "Chinese Orchestra",
-    "Choir",
-    "Concert Band",
-    "Contemporary Dance",
-    "Cyberace",
-    "Malay Dance",
-    "Musical Theatre",
-    "National Cadet Corps",
-    "National Civil Defence Cadet Corps",
-    "National Police Cadet Corps",
-    "Netball",
-    "St John Brigade",
-    "Student Leadership"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1437,10 +1420,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Aims Club",
-    "Band",
-    "Bowen Artists",
-    "Library"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1475,7 +1458,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1509,7 +1497,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1544,10 +1538,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Drama Club",
-    "Engineering And Innovation Club",
-    "Info. Media Club",
-    "Young Entrepreneur Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1583,7 +1577,11 @@
     "Tamil"
    ],
    "ccas": [
-    "International Dance"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ART ELECTIVE PROGRAMME",
@@ -1623,7 +1621,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Festive Drums"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1659,7 +1661,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1696,14 +1702,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Befrienders' Club",
-    "Creative Media Club",
-    "Drama",
-    "Eco Discovery Club",
-    "Infocomm - Robotics Club",
-    "Mass Brain Activities (Mba) Club",
-    "Red Cross (Links)",
-    "Student Leadership (Environment Champion)"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1739,7 +1742,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1775,13 +1783,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Cub Scouts",
-    "Digital Artisans",
-    "Drama Club",
-    "International Dance",
-    "Library Ambassadors",
-    "Science & Environmental Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1817,7 +1823,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Vex Robotics"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1852,7 +1861,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1888,10 +1902,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Creative Design Club",
-    "Infocomm & Robotics",
-    "International Dance",
-    "Science Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -1926,7 +1941,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -1962,8 +1982,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Artsquad",
-    "Radius"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "BICULTURAL STUDIES PROGRAMME",
@@ -2000,15 +2022,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Editorial Club",
-    "Film Sound And Video",
-    "First Aid Club",
-    "Genesis",
-    "Interact Club",
-    "Nexus Investment & Entrepreneurship Society",
-    "Oratorical Society",
-    "Ste2m Club",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (ENGLISH)"
@@ -2047,11 +2064,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Audio Visual & Photography Club",
-    "Environment Club",
-    "Infocomm Club",
-    "Symphonic Band",
-    "Young Journalist Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "REGIONAL STUDIES PROGRAMME"
@@ -2089,7 +2105,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -2123,9 +2144,11 @@
     "Tamil"
    ],
    "ccas": [
-    "National Cadet Corps (Air) Boys",
-    "National Cadet Corps (Air) Girls",
-    "The Boys' Brigade"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -2161,9 +2184,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Eco Club",
-    "Tech Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -2200,12 +2225,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Dance",
-    "Drama Club",
-    "Innovation Club",
-    "Math / Science Club",
-    "Sports Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -2216,7 +2239,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Service & Student Leadership",
      "title": "Community Student Leadership"
     }
    ]
@@ -2252,17 +2275,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Board Games",
-    "Brownies",
-    "K-Greeners",
-    "Mbp",
-    "Netball",
-    "Netball Recreational",
-    "Netball Training Development P3 & P4",
-    "Pottery",
-    "Recreational Rhythmic Gym",
-    "Robotics & Media Club",
-    "Sewing Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -2273,7 +2289,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts",
      "title": "ArtsONE+ : Purposeful Learning of Music and Performing Arts Using the Self-regulated Approach"
     }
    ]
@@ -2310,10 +2326,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Cabin Club",
-    "Infant Jesus Youth Mission",
-    "Media Communcations Club",
-    "Sports Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED ART PROGRAMME"
@@ -2350,7 +2366,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -2360,7 +2381,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Service & Student Leadership",
      "title": "The PROACTIVE Leader in Me Development Programme"
     }
    ]
@@ -2397,8 +2418,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Creative Crew",
-    "Dance Inc"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -2409,7 +2433,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "The SPARK (Sports for Active and Resilient Kids)"
     }
    ]
@@ -2445,11 +2469,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Environmental Science Club",
-    "Fusion Dance",
-    "Little Lights",
-    "Media & Infocomm Club",
-    "Tap Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -2460,7 +2483,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Service & Student Leadership",
      "title": "Character Lives In My Behaviour (CLIMB)"
     }
    ]
@@ -2497,12 +2520,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Culture Dance",
-    "Diving",
-    "Green Pixel Club",
-    "Tech & Media Club",
-    "Theatre Academy"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -2513,7 +2534,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "IJSports"
     }
    ]
@@ -2550,16 +2571,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Arts Alive!",
-    "Automation And Robotics Club",
-    "Chinese Cultural Society",
-    "Debating And Oratory Society",
-    "Igrow@ij",
-    "Ij Dance Ensemble",
-    "Ij Media Club",
-    "Ij Theatre",
-    "Ij Youth Mission",
-    "Legion Of Mary"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ART ELECTIVE PROGRAMME"
@@ -2598,15 +2613,24 @@
     "Tamil"
    ],
    "ccas": [
-    "Centre Stage",
-    "Culinary Arts",
-    "Ij Youth Mission",
-    "Pixel Playhouse",
-    "Sports Club",
-    "The Vox Collective"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "The Art of Communication through Theatre and Debates"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Empathy and Critical Thinking through Community Problem Solving"
+    }
+   ]
   },
   {
    "name": "Chij St. Nicholas Girls' School",
@@ -2640,19 +2664,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Chinese Cultural Society",
-    "Chinese Drama Society",
-    "Dance Society",
-    "Debate Society",
-    "Green Club",
-    "Ij Youth Mission",
-    "Infocomm Club",
-    "Library Society",
-    "Literary Drama Society",
-    "Makers Club",
-    "Media Club",
-    "String Orchestra",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "BICULTURAL STUDIES PROGRAMME",
@@ -2691,9 +2706,25 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Education For Life � Developing Portable Skills through and for Real World Problem Solving"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Developing Self-directed, Confident and Resilient Leaders, Learners and Ladies through Sports & Hockey"
+    }
+   ]
   },
   {
    "name": "Chongfu School",
@@ -2725,7 +2756,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -2735,7 +2771,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "Growing Character through Sports and Outdoor Education"
     }
    ]
@@ -2770,7 +2806,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -2805,10 +2846,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Christian Fellowship",
-    "Infocomm Club",
-    "The Boys' Brigade",
-    "The Girls' Brigade"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -2844,7 +2885,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -2879,7 +2925,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -2912,7 +2963,13 @@
    "motherTongues": [
     "Chinese"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [
     "ENHANCED MUSIC PROGRAMME",
     "LANGUAGE ELECTIVE PROGRAMME (CHINESE)"
@@ -2951,15 +3008,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance Ensemble",
-    "Entrepreneur Club",
-    "Festival Drums",
-    "Green Club",
-    "Infocomm & Robotics Club",
-    "Journalism Club",
-    "Multimedia Club",
-    "Odac",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -2970,7 +3022,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts",
      "title": "HeARTs for the Arts"
     }
    ]
@@ -3006,7 +3058,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -3042,7 +3100,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Infocomm Technology"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3078,11 +3140,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Bits & Atom",
-    "Cwss Live!",
-    "Eco Club",
-    "International Dance",
-    "New Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (TAMIL)"
@@ -3120,7 +3181,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -3156,9 +3222,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Cvss Wind Symphony Band",
-    "Eco.  Environment And Community Club",
-    "School Library Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3194,9 +3261,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Environmental Club",
-    "Infocomm Club",
-    "Media & Communications"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3231,7 +3299,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -3267,9 +3341,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Chinese And Modern Dance",
-    "Digital Art & Photography Club",
-    "Innovation And Enterprise"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "MUSIC ELECTIVE PROGRAMME"
@@ -3308,13 +3383,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Athletics",
-    "Circus Arts",
-    "Dance",
-    "Innovation Club",
-    "New Media Club",
-    "Pop Band",
-    "Visual Arts Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3349,7 +3421,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -3383,7 +3460,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -3420,9 +3502,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Brownies",
-    "Junior Orchestra"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3459,12 +3542,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Brownies",
-    "Chess Club",
-    "Makers Club",
-    "Mcnally Club",
-    "Media Club",
-    "Talking Titans"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -3475,7 +3556,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Service & Student Leadership",
      "title": "Nurturing Mindful Servant Leaders @ De La Salle"
     }
    ]
@@ -3510,7 +3591,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -3546,9 +3633,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Basketball",
-    "International Dance",
-    "New Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3583,44 +3671,11 @@
     "Chinese"
    ],
    "ccas": [
-    "Air Weapon Club",
-    "Art Club",
-    "Beijing Opera",
-    "Chinese Society (Drama)",
-    "Community Council",
-    "Dance Society",
-    "Debating And Public Speaking",
-    "English Drama Society",
-    "Food And Fashion",
-    "Golf",
-    "International And Strategic Affairs Council",
-    "International Chess",
-    "Law Society",
-    "Library Society",
-    "Lion Dance",
-    "Lion Dance(Boys)",
-    "Malay Cultural Club",
-    "Mass Communications Society",
-    "Medical Society",
-    "Mind Sports Club",
-    "Modern Dance(Girls)",
-    "Oratorical Society (Debate)",
-    "Outdoor Adventure Club",
-    "Photography Society",
-    "Scouts(Boys)",
-    "Sp-Cca (Canoeing)",
-    "St John Brigade",
-    "Steam Collective",
-    "Steam Collective (Infocomm Chapter)",
-    "Steam Collective (Mathematics Chapter)",
-    "Steam Collective (Robotics Chapter)",
-    "Steam Collective (Science Chapter)",
-    "Symphonic Band",
-    "Theatre Arts",
-    "Uniformed Group Council",
-    "Ventures And Rovers",
-    "Youth Club",
-    "Yukata Japanese Cultural Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "BICULTURAL STUDIES PROGRAMME",
@@ -3661,11 +3716,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Green Club",
-    "Infocomm Club",
-    "Makers' Club",
-    "Media Club",
-    "Stagearts Drama"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3701,11 +3755,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Environmental Club",
-    "Fusion & Modern Dance",
-    "Media Club",
-    "Music Club",
-    "Sports Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3741,7 +3794,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -3777,10 +3835,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Dancesports",
-    "Gymnastics",
-    "Science And Environment"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3816,9 +3874,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Festive Drums",
-    "New Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3854,8 +3913,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Stem",
-    "Swift Striders"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -3891,7 +3952,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -3927,20 +3994,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Chamber Strings",
-    "Computing & Robotics Club",
-    "Debate Society",
-    "Ej Visual Art Club",
-    "Ejc Media Club",
-    "Environment Club",
-    "Health And Fitness Club",
-    "Library Club",
-    "Mind Sports Club",
-    "Press",
-    "Rock Band",
-    "Service Learning Club",
-    "Street Dance",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "BICULTURAL STUDIES PROGRAMME",
@@ -3980,8 +4038,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Student Leadership (Peer Support Leader)",
-    "Student Leadership (Prefect)"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4017,17 +4078,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Aesthetics Dept",
-    "Cca Exco",
-    "Chinese Language Dept",
-    "Digital Media Club",
-    "Eldds",
-    "English Dept",
-    "Interact Club",
-    "Malay Language Dept",
-    "Mathematics Dept",
-    "Ncdcc",
-    "Science Dept"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4064,7 +4119,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Stem Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -4075,7 +4133,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts/ Visual Arts & Design",
      "title": "HeARTS: Building Empathy and Social Awareness through the arts"
     }
    ]
@@ -4112,7 +4170,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -4148,9 +4212,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Darwinian Club (Ma)",
-    "Darwinian Club (Sci)",
-    "Percussion Ensemble"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4187,7 +4252,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Multi Sports Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4223,7 +4291,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -4258,7 +4331,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -4293,7 +4371,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Hip-Hop Dance"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4329,7 +4411,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -4364,8 +4452,10 @@
     "Tamil"
    ],
    "ccas": [
-    "International Dance",
-    "Junior Reporters"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4400,7 +4490,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -4436,13 +4532,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Chinese Dance & Wushu",
-    "Environment Club",
-    "Infocomm",
-    "Malay Cultural Society",
-    "National Cadet Corps",
-    "Robotics Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4478,12 +4571,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Band",
-    "Brownies",
-    "Green Explorers Club",
-    "Infocomm & Media Club",
-    "Modular Sports"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4518,7 +4609,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -4528,7 +4625,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Youth Leadership",
      "title": "GESS LIFE Programme"
     }
    ]
@@ -4564,7 +4661,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -4574,7 +4676,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Service & Student Leadership",
      "title": "GM Earth Warriors Environment Education (EE): To Develop Student Leaders who Empathise, Enrich and Empower"
     }
    ]
@@ -4611,10 +4713,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Athletics",
-    "Board Games",
-    "Media Resource",
-    "Media@gm"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -4625,7 +4728,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Youth Leadership",
      "title": "Nurturing Confident, Compassionate and Courageous Leaders"
     }
    ]
@@ -4662,7 +4765,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Basketball"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4698,7 +4804,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -4734,17 +4846,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Angklung Ensemble",
-    "Art & Culture Club",
-    "Chorale",
-    "Dance Ensemble",
-    "Greendale Brogadcasting Club",
-    "Greendale Green Club",
-    "Greendale Orchestra",
-    "Library",
-    "National Cadet Corps (Air)",
-    "Odac",
-    "Theatricks!"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4780,12 +4885,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Expression",
-    "Drama Club",
-    "Green & Innovation Club",
-    "International Dance",
-    "Library",
-    "Sport Climbing"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4820,7 +4924,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -4855,7 +4965,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -4890,7 +5005,10 @@
     "Tamil"
    ],
    "ccas": [
-    "International Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -4927,7 +5045,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Athletics"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -4938,7 +5060,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Youth Leadership",
      "title": "Developing Leadership Competencies in Every HaiSian"
     }
    ]
@@ -4973,7 +5095,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -4983,7 +5110,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts",
      "title": "Character and Leadership through the Performing and Visual Arts"
     }
    ]
@@ -5020,8 +5147,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "English Oratorical Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5057,7 +5186,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -5092,7 +5226,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -5102,7 +5241,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Youth Leadership",
      "title": "Good Samaritan Programme (GSP)"
     }
    ]
@@ -5136,7 +5275,12 @@
    "motherTongues": [
     "Chinese"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -5169,7 +5313,11 @@
    "motherTongues": [
     "Chinese"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -5179,7 +5327,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "Learning for Life Programme in Sports and Outdoor Education"
     }
    ]
@@ -5216,22 +5364,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Badminton",
-    "Basketball",
-    "Football",
-    "Guitar Ensemble",
-    "Infocomm Club",
-    "Innovations Club",
-    "International Chess Club",
-    "Modern Dance",
-    "P3 Modular Cca",
-    "Robotics",
-    "Rope Skipping",
-    "Scouts",
-    "Speech And Drama",
-    "Tenpin Bowling",
-    "Wushu"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5267,7 +5404,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -5302,9 +5444,10 @@
     "Tamil"
    ],
    "ccas": [
-    "English Language, Drama, Debating And Speech (Eldds)",
-    "Media Resource Club",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5341,8 +5484,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Nutrition And Food Science Club",
-    "Show Choir"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5379,8 +5525,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Cca Leaders",
-    "Unesco Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5416,40 +5565,11 @@
     "Chinese"
    ],
    "ccas": [
-    "Art Club",
-    "Astronomy Club",
-    "Chinese Calligraphy Society",
-    "Chinese Dance",
-    "Chinese Oratorical Society",
-    "Cmc Council",
-    "Concert Band",
-    "Elddfs",
-    "English Drama",
-    "Faculty Committee",
-    "First Aid Club",
-    "Green Council",
-    "Humanities & Current Affairs Society",
-    "Infocomm & Robotics Society",
-    "Interact Club",
-    "International Chess",
-    "Library Club",
-    "Media Resource Library",
-    "Mediatech",
-    "Mind Sports Club",
-    "Music And Dance",
-    "National Education Council",
-    "Outdoor Education Student Club",
-    "Photography Club",
-    "Physical Science",
-    "Publication Society",
-    "Science Students' Research Club",
-    "Social Studies",
-    "Symphonic Band",
-    "Track & Field Cross Country",
-    "Ultimate Frisbee",
-    "Values In Action Council",
-    "Water Polo",
-    "Water Polo & Swimming"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ART ELECTIVE PROGRAMME",
@@ -5488,7 +5608,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Stem Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5523,7 +5646,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -5558,7 +5686,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -5594,7 +5727,11 @@
     "Tamil"
    ],
    "ccas": [
-    "E2k Science"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5629,7 +5766,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -5665,21 +5807,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Athletics",
-    "Audio Visual Club",
-    "Chess Club",
-    "Chinese Cultural Society",
-    "Community Engagement Council",
-    "Debate Society",
-    "Eco Club",
-    "Infocomm Club",
-    "Interact Club",
-    "International Current Affairs Society",
-    "Jp Dance Club",
-    "Jp Media Tech Club",
-    "Playart",
-    "Student Council",
-    "Ultimate Frisbee"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (CHINESE)",
@@ -5719,7 +5851,10 @@
     "Tamil"
    ],
    "ccas": [
-    "12a) Scouts  & 12b) Girl Scouts"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5756,10 +5891,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Explorers Club",
-    "Library",
-    "Media And Visual Arts Club",
-    "Sports Recreation Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5796,10 +5931,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Band",
-    "Creative Media Club",
-    "Hip Hop",
-    "S.T.E.M. Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5835,18 +5971,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Craft & Tech Department (Art / D&T / Nfs)",
-    "English / Literature Department",
-    "Humanities Department",
-    "Infocomm & Media Technology Club",
-    "Information Technology",
-    "Mathematics Department",
-    "Mother Tongue Department",
-    "Science Department",
-    "Stem & Sustainability Club",
-    "Student Ambassadors",
-    "Student Council"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED ART PROGRAMME"
@@ -5884,8 +6013,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Batucada",
-    "Infomedia Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5920,7 +6052,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -5955,9 +6093,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Digital Discovery Club",
-    "International Dance",
-    "Sense Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -5993,26 +6132,10 @@
     "Malay"
    ],
    "ccas": [
-    "Bouldering",
-    "Dance Club",
-    "Debate Society",
-    "Drama Club",
-    "Earth Club",
-    "IP - Alp",
-    "IP - Computing",
-    "IP - English",
-    "IP - Humanities",
-    "IP - Math/P.O.A",
-    "IP - Mother Tongue Language",
-    "IP - Nutrition Food Science (Nfs)",
-    "IP - Physical Education",
-    "IP - Science",
-    "Infocomm Club",
-    "Media Club",
-    "National Cadet Corps (Land)",
-    "National Police Cadet Corps",
-    "Outdoor Adventure Club",
-    "Woodball"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6048,7 +6171,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -6058,7 +6186,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Service & Student Leadership",
      "title": "Student Voice & Advocacy (SVA)"
     }
    ]
@@ -6092,7 +6220,12 @@
    "motherTongues": [
     "Chinese"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -6102,7 +6235,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "Exposure-Experience-Excel through Sports"
     }
    ]
@@ -6138,8 +6271,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Eco Makers Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6174,7 +6309,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -6209,7 +6349,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -6245,7 +6391,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6282,11 +6431,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Community Leadership Club",
-    "Green Club",
-    "Innovators' Club",
-    "International Dance",
-    "Visual Arts Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6322,7 +6470,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -6357,9 +6511,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Danceversity",
-    "Eco Club",
-    "Lvsb"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6394,20 +6549,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Art Club",
-    "Band",
-    "Chinese Calligraphy",
-    "Chinese Chess",
-    "Chinese Cultural Club",
-    "Debate Club",
-    "Drama Club",
-    "Environment And Science Club",
-    "Guzheng",
-    "Homec",
-    "Infocomm",
-    "Mrl Library Club",
-    "Videography Club",
-    "Wushu And Lion Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -6418,7 +6563,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts",
      "title": "Learning through an Ethnic Arts Programme (LEAP)"
     }
    ]
@@ -6453,8 +6598,10 @@
     "Malay"
    ],
    "ccas": [
-    "Interact Club",
-    "Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6492,16 +6639,11 @@
     "Chinese"
    ],
    "ccas": [
-    "Bicultural Club",
-    "Brass Band",
-    "Chinese Literary Society",
-    "English Literary Society",
-    "Marist Digital Media Club",
-    "Marist Robotics & Programming Club",
-    "Mathematics Society",
-    "Outdoor Activities Club",
-    "Science Club",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (CHINESE)"
@@ -6537,7 +6679,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -6572,10 +6719,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Ava/ Infocomm Club",
-    "International Dance",
-    "Scrabble",
-    "Shine"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6612,7 +6759,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -6622,7 +6774,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "Enhancing Holistic Health through Sports and Outdoor Education - Sports Excellence (SPOEEX) @ Marymount"
     }
    ]
@@ -6658,7 +6810,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -6693,11 +6851,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Chinese Ensemble",
-    "Drama",
-    "Enterprise Club",
-    "Infocomm Club",
-    "Literary And Oratorical Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6734,17 +6891,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Chinese Calligraphy",
-    "Chinese Speech And Drama",
-    "Diabolo",
-    "Infocomm Club",
-    "Library",
-    "Nature Lovers Club",
-    "Odyssey Cub Scouts",
-    "Sports Club",
-    "Student Leadership (Cyberwellness)",
-    "Student Leadership (Environment)",
-    "Student Leadership (Health Champions)"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -6755,7 +6906,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee Toh School)"
     }
    ]
@@ -6791,8 +6942,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Chinese Dance",
-    "Soccer"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -6829,8 +6983,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Air Rifle Women",
-    "Indoor Skydiving"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED ART PROGRAMME"
@@ -6869,8 +7025,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Christian Fellowship",
-    "International Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -6881,7 +7039,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "Outdoor and Sports Programme at MGS"
     }
    ]
@@ -6918,11 +7076,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance Club",
-    "House",
-    "Infocomm",
-    "Sophia Society",
-    "Sports Recreational Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "MUSIC ELECTIVE PROGRAMME"
@@ -6960,13 +7118,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Band",
-    "Dance",
-    "English Language & Drama Club",
-    "New Media Club",
-    "Service Learning Club",
-    "The Music Ensemble",
-    "Youth Diplomats Society"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7001,7 +7157,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -7038,12 +7199,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Av Club",
-    "Catholic Society",
-    "Info Comm (Mm)",
-    "Info Comm Club",
-    "Maker Club",
-    "Weightlifting"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7078,16 +7237,11 @@
     "Chinese"
    ],
    "ccas": [
-    "Code Builders Club",
-    "Code Builders Club(I)",
-    "Code Builders Club(R)",
-    "Contemporary Dance",
-    "Debate Club",
-    "Green Club",
-    "Library",
-    "Multi-Media Club",
-    "Visual Arts Club",
-    "Wind Orchestra"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED ART PROGRAMME",
@@ -7101,7 +7255,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts",
      "title": "Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS"
     }
    ]
@@ -7138,11 +7292,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Environmental Club",
-    "Festive Drumming",
-    "Infocomm & Media",
-    "Language Cultural Arts & Communication Club",
-    "Sports Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7177,19 +7331,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Art & Design Club",
-    "Athletics",
-    "Bb Pipes & Drums Band",
-    "Calligraphy Club",
-    "Chinese Drama Society",
-    "Dance Society",
-    "English Drama & Debating Club",
-    "Infocomm Club",
-    "Netball (Girls)",
-    "Robotics Club",
-    "Service Learning Club",
-    "Softball (Girls)",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (CHINESE)"
@@ -7225,7 +7370,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Journalism & Broadcasting"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7260,18 +7408,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Artistic Gymnastics / Trampoline",
-    "Audio Visual Club",
-    "Badminton",
-    "Chinese Calligraphy",
-    "Infocomm Club",
-    "Lion Dance Troupe / Drum Ensemble",
-    "Mind Sports Club",
-    "Nanyang Debate Club",
-    "Nanyang Outdoors Club",
-    "Nature Society",
-    "Sports Club",
-    "Theatre Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ART ELECTIVE PROGRAMME",
@@ -7312,33 +7452,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Audio Visual Aids Club (Ava)",
-    "Biz Club",
-    "Boys' Brigade (External)",
-    "Channel News Nanyang (Cnny)",
-    "Chinese Cultural Society",
-    "Chinese Literary Club",
-    "Class Leaders Executive Committee (Clexco)",
-    "Dance - Modern / Street",
-    "Drama Club",
-    "External Cca: Red Cross Youth",
-    "Girl Guides (External)",
-    "Gym Club",
-    "Interact Club",
-    "Nanyang Debaters And Orators",
-    "National Cadet Corps (External)",
-    "Npcc (External)",
-    "Outdoor Adventure Club (Odac)",
-    "Photographic Society",
-    "Red Cross Youth (Nanyang JC Chapter)",
-    "Robotics And Computer Science Club",
-    "Scouts",
-    "Singapore National Youth Chinese Orchestra (Snyco)",
-    "Singapore National Youth Orchestra (Snyo)",
-    "Singapore Youth Flying Club (External)",
-    "St. John Brigade (External)",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ART ELECTIVE PROGRAMME",
@@ -7376,8 +7494,11 @@
     "Chinese"
    ],
    "ccas": [
-    "International Dance",
-    "Maker & Environmental Science Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7414,20 +7535,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Astronomy",
-    "Ava & Pa Club",
-    "Canoeing & Dragon Boat",
-    "Chinese Orchestra & Guzheng Ensemble",
-    "Cldds",
-    "Elddes",
-    "Greenlink",
-    "Ildds",
-    "Interact Club",
-    "Makers.",
-    "Malay Cultural Society",
-    "Njproductions",
-    "Symphonic Band",
-    "Western Dance"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ART ELECTIVE PROGRAMME",
@@ -7467,7 +7579,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -7502,7 +7620,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED ART PROGRAMME"
@@ -7540,7 +7661,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -7575,7 +7701,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [
     "ENHANCED ART PROGRAMME"
    ],
@@ -7612,7 +7743,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -7646,7 +7783,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [
     "ENHANCED ART PROGRAMME"
    ],
@@ -7684,9 +7826,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Arty-Crafty (Digital Art)",
-    "Arty-Crafty (Wire Sculpture)",
-    "International Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7722,7 +7865,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -7758,10 +7906,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Events Committee",
-    "Student Affairs Committee",
-    "Vista Drama Club",
-    "Welfare Committee"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7798,10 +7947,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Athletics",
-    "Drama Club",
-    "Service Learning Club",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7836,7 +7986,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -7871,14 +8027,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Brownies",
-    "Chess Club",
-    "Chinese Cultural Dance",
-    "Choir",
-    "Cub Scouts",
-    "Drama Club",
-    "Robotics Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7915,10 +8067,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Cluster Football",
-    "Cluster Infocomm-Robotics",
-    "Heart Club",
-    "Mcac"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7954,13 +8106,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Club De Cuisine",
-    "Dance",
-    "Environmental Club",
-    "It Club",
-    "Music Club",
-    "Ripples Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -7996,7 +8146,11 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8031,9 +8185,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Green Club",
-    "Media & Stem",
-    "Visual Arts Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -8105,7 +8260,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8139,7 +8299,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8173,7 +8339,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [
     "ENHANCED ART PROGRAMME"
    ],
@@ -8209,7 +8381,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8244,7 +8422,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8279,12 +8462,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Creative Dance",
-    "Drama Club",
-    "Environment Club",
-    "Infocomm Club",
-    "Show Choir",
-    "Student Leadership Council (Slc)"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -8321,8 +8503,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Av/Pa Club",
-    "Media Communications Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -8357,7 +8541,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8392,8 +8581,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Audio Visual Lights",
-    "Tinkers Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -8430,10 +8622,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Christian Fellowship",
-    "Environmentclub",
-    "Innovation Club",
-    "International Dance"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -8444,7 +8637,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts/ Visual Arts & Design",
      "title": "Aesthetics Expressions @ PL"
     }
    ]
@@ -8480,7 +8673,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8514,14 +8712,11 @@
     "Chinese"
    ],
    "ccas": [
-    "#digi.Me Club",
-    "Chinese Ink Brush Painting",
-    "Let's Play Sports",
-    "Science And Gardening Club",
-    "Strategic Board Games",
-    "Student Leadership (Pam)",
-    "Student Leadership (Peer Support)",
-    "Student Leadership (Prefectorial)"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -8532,7 +8727,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Service & Student Leadership",
      "title": "Pei Chun Leaders Programme (PCLP)"
     }
    ]
@@ -8566,7 +8761,12 @@
    "motherTongues": [
     "Chinese"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8601,16 +8801,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance Society",
-    "Drama Society",
-    "Infocomm Club",
-    "Outdoor Activities Club",
-    "Pei Hwa Art Council",
-    "Pei Hwa Times",
-    "Pei Hwa Voices",
-    "Robotics Club",
-    "Student Council",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -8647,9 +8842,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Brownies",
-    "Drama",
-    "Info Comm"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -8684,7 +8880,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8719,7 +8921,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8753,7 +8961,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -8789,12 +9002,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Expression",
-    "Dance Ambassadors",
-    "Infocomm",
-    "International Dance",
-    "Student Councillors",
-    "Wu Shu"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -8829,12 +9041,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Brownies",
-    "Chinese Calligraphy",
-    "Dance",
-    "Festive Drum",
-    "Outdoor Activities Club",
-    "Science Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -8845,7 +9055,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts",
      "title": "D�ARTS@PCS"
     }
    ]
@@ -8882,9 +9092,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Audio Engineering",
-    "Phmedia",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -8895,7 +9106,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Youth Leadership",
      "title": "Community Youth Leadership"
     }
    ]
@@ -8932,10 +9143,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Contemporary Dance",
-    "Eco Club",
-    "Floorball",
-    "Innopreneur"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -8972,8 +9184,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Ecostem",
-    "English Language Literary & Drama Society"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9010,10 +9225,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Dancetopia",
-    "I-Stem Club",
-    "Multimedia Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9050,9 +9266,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Band",
-    "Basketball",
-    "International Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9088,7 +9305,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -9124,7 +9346,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Wits Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9160,11 +9385,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Brownies",
-    "Chinese Drums",
-    "Infocomm & Media Club",
-    "Theatrical Arts & Mass Media"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9201,18 +9425,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art & Pottery Club",
-    "Brownies",
-    "Chinese Dance",
-    "Chinese Orchestra",
-    "Choir",
-    "Dikir Barat",
-    "Drama Club",
-    "Green Club",
-    "Indian Dance",
-    "Innovation & Entrepreneurship Club",
-    "Malay Dance",
-    "Scouts"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9249,13 +9465,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Drama Club",
-    "Environmental Club",
-    "Infocomm Club",
-    "International Dance",
-    "Mathematics Club",
-    "Visual Art",
-    "Weiqi"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9290,7 +9503,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -9326,10 +9544,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Ace Club",
-    "Dance",
-    "Drama",
-    "Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9365,7 +9583,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -9401,12 +9625,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance",
-    "Drama",
-    "Environmental Life Science",
-    "Library",
-    "New Media",
-    "Softball"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9443,27 +9665,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Angklung Ensemble",
-    "Art Club",
-    "Band Symphonic",
-    "Cogitare Club",
-    "Dance International",
-    "Debate And Oratorical Society",
-    "Ethnic Dance",
-    "Girl Guides",
-    "Girls' Brigade",
-    "Ice Hockey",
-    "Infocomm Club",
-    "Modern Pentathlon",
-    "Photographic Society",
-    "Raffles Drama",
-    "Raffles Mind Sports",
-    "Robotics Club",
-    "Student Leadership (Congress)",
-    "Student Leadership (Pb)",
-    "Student Leadership (Psb)",
-    "Track And Cross Country",
-    "Trampoline Gymnastics"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "MUSIC ELECTIVE PROGRAMME",
@@ -9506,58 +9712,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Academic Programmes",
-    "Alchemy Club",
-    "Astronomy Club",
-    "Audio Visual Aid",
-    "Bridge Club",
-    "Chamber Ensemble",
-    "Chess Club",
-    "Chinese Literary Drama Cultural Society",
-    "Club Automatica",
-    "Community Advocates",
-    "Computer Science Society",
-    "Dragon Boating",
-    "Entrepreneurs' Network",
-    "Film Society",
-    "Gavel Club",
-    "Gymnastics",
-    "History & Strategic Affairs Society",
-    "Humanities Club",
-    "Indian Cultural Society",
-    "Infocomm Club",
-    "Inter-House",
-    "Interact Club",
-    "Malay Cultural Society",
-    "Mathematics Club",
-    "Military Band",
-    "Outdoor Adventure & Activities Club",
-    "Photographic Society",
-    "Photography & Art Club",
-    "Piano Ensemble",
-    "Raffles Archives & Museum",
-    "Raffles Chorale",
-    "Raffles Debaters",
-    "Raffles Debates",
-    "Raffles Economics & Current Affairs Society",
-    "Raffles Jazz",
-    "Raffles Modern Dance",
-    "Raffles One Earth",
-    "Raffles Players",
-    "Raffles Press",
-    "Raffles Publications",
-    "Raffles Rock",
-    "Raffles Runway",
-    "Raffles Society Of Biological Science",
-    "Raffles Street Dance",
-    "Raffles Symphonic Band",
-    "Raffles Voices",
-    "Red Cross Youth Chapter",
-    "Science & Astronomy Club",
-    "Sports Recreation Club",
-    "String Ensemble",
-    "Visual Art Club",
-    "Writers' Guild"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ELECTIVE PROGRAMME IN MALAY LANGUAGE FOR SECONDARY SCHOOL (EMAS)",
@@ -9598,7 +9757,10 @@
     "Chinese"
    ],
    "ccas": [
-    "Bilingual Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -9609,7 +9771,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Community Service & Student Leadership",
      "title": "Every RSS Student A Leader"
     }
    ]
@@ -9644,7 +9806,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -9680,18 +9847,11 @@
     "Chinese"
    ],
    "ccas": [
-    "Bicultural Leaders Academy",
-    "Chinese Debate",
-    "Editorial Club",
-    "English Debate",
-    "History & Current Affairs Society",
-    "Humanities & Social Sciences Leaders Academy",
-    "Mathematics Leaders Academy",
-    "Multimedia Club",
-    "Science Leaders Academy",
-    "Service & Citizenship Society",
-    "Student Leadership Development Academy",
-    "The Eco-Sustainability Leaders Academy"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "BICULTURAL STUDIES PROGRAMME"
@@ -9730,12 +9890,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Brownies",
-    "Cca Leaders",
-    "Dance Ensemble",
-    "Infocomm Technology",
-    "Student Council",
-    "Visual Arts Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9771,7 +9930,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Play Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9807,9 +9969,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Digital Media Club",
-    "Multi-Cultural Dance Society",
-    "Visual Arts"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (TAMIL)"
@@ -9848,10 +10011,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Drama",
-    "International Dance",
-    "Lifeskills",
-    "Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9888,11 +10051,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Badminton",
-    "E2k Maths",
-    "E2k Science",
-    "Manga Art",
-    "Oratorical Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": [
@@ -9903,7 +10065,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Music & Performing Arts",
      "title": "Programme for Aesthetics Integration@Rosyth (PAIR)"
     }
    ]
@@ -9941,11 +10103,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Brownies",
-    "Int Dance",
-    "Multi-Sport (Friday)",
-    "Multi-Sport (Monday)"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -9981,17 +10143,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Applied Research Club@sst",
-    "Astronomy Club",
-    "Athletics",
-    "Cyber Wellness",
-    "English Drama Club",
-    "Humanities Club",
-    "Innovation And Entrepreneurship Tdp",
-    "Mathematics Club",
-    "Media Club",
-    "Science Club",
-    "Show Choir And Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10063,7 +10218,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -10097,7 +10258,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -10132,7 +10299,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Ict Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10169,7 +10339,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Media Services Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10205,7 +10379,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -10241,10 +10420,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance",
-    "Earth Club",
-    "Language Arts Club",
-    "Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10280,7 +10459,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -10316,9 +10501,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Contemporary Dance",
-    "Green Club",
-    "Media Production House"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10354,11 +10541,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Activekids",
-    "Art Club",
-    "Brownies",
-    "Environmental Ambassadors",
-    "Scieinsteins"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10395,12 +10582,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Chinese Drama Club",
-    "International Dance",
-    "Media Production",
-    "Modular Dance",
-    "Prefect"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10436,13 +10622,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Debate Club",
-    "Library Club",
-    "Sc Ambassadors",
-    "Science & Environment Club",
-    "Scmun",
-    "Young Docents"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "BICULTURAL STUDIES PROGRAMME"
@@ -10483,14 +10667,8 @@
     "Tamil"
    ],
    "ccas": [
-    "Beach Volleyball",
-    "Cycling",
-    "Jiu Jitsu",
-    "Multi-Sport",
-    "Rollersports",
-    "Rowing",
-    "Sport Climbing",
-    "Squash"
+    "Others",
+    "Physical Sports"
    ],
    "programmes": [],
    "distinctive": []
@@ -10527,9 +10705,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Environmental Science Club",
-    "Student Leadership"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10567,16 +10747,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Dance Club",
-    "Media & Photography Club",
-    "Music Club",
-    "Ncdcc",
-    "Urban Farmers",
-    "Young Artists",
-    "Young Chefs",
-    "Young Creators",
-    "Young Engineers",
-    "Young Trekkers"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10612,7 +10787,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -10646,8 +10827,10 @@
     "Malay"
    ],
    "ccas": [
-    "Ecostem Club",
-    "Outdoor Pursuits Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10682,16 +10865,11 @@
     "Chinese"
    ],
    "ccas": [
-    "Ava/Pa Club",
-    "Dance Society",
-    "Environment Club",
-    "Infocomm Club",
-    "Lds",
-    "Mentoring Club",
-    "Saints Advocate",
-    "Saints For Christ",
-    "Sajc Mun",
-    "Students' Council"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10728,11 +10906,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Chess Club",
-    "Eco Club",
-    "Media Club",
-    "Sports Club",
-    "Visual Arts Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10769,9 +10946,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Athletics",
-    "Saints Media",
-    "Stay"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED ART PROGRAMME"
@@ -10809,7 +10987,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Drama Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10845,8 +11026,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Media  And Production Society",
-    "St Magdalene's Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10881,7 +11064,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -10916,7 +11105,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Gabrielite Sports Excellence Programme (Gsep)"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -10952,7 +11144,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -10988,14 +11185,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Chess Club",
-    "Dance",
-    "Drama & Media Club",
-    "Guzheng",
-    "Infocomm Club",
-    "Scrabble Club",
-    "Sonshine Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11032,13 +11226,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Cross Train",
-    "English Drama",
-    "Hildan Chorale",
-    "Infocomm (Robotics) Club",
-    "Mass Communication Club",
-    "Pa / Ava Club",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11076,42 +11267,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Astronomy Cas",
-    "Beacon Cas",
-    "Blooday",
-    "C3 Ace Programme For  Youths",
-    "Chess Club",
-    "Chinese Cultural Society",
-    "Coding & Technology  Cas",
-    "Dance Cas",
-    "Debate Cas",
-    "Design & Innovation Club",
-    "Dragon Boat Cas",
-    "Film Cas",
-    "Green Connect",
-    "Indian Cultural Society",
-    "Kidsread",
-    "Lasallian Youth",
-    "Literary Society",
-    "Malay Cultural Society",
-    "Paper Bridges",
-    "Photography",
-    "Pre-University Seminar Cas",
-    "Prism Cas",
-    "Rock-A-Cause Cas",
-    "Science Cas",
-    "Sica Cas",
-    "Sji Bagpipes & Drums",
-    "Sji Drama",
-    "Sji Guitar Ensemble",
-    "Sji Symphonic Band",
-    "Sji Vocal Ensemble",
-    "St Joseph's Pelandok Scouts",
-    "Ultimate Frisbee",
-    "Ventures",
-    "Visual Arts Cas",
-    "Volleyball Cas",
-    "Youngxhush"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11147,9 +11307,25 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Observe � Reflect � Act (ORA @ SJI Junior)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports Experience Reinforcing Values Education (Serve@SJIJ)"
+    }
+   ]
   },
   {
    "name": "St. Margaret's School (Primary)",
@@ -11183,24 +11359,24 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Bowling",
-    "Brass Band",
-    "Brownies",
-    "Choir",
-    "Environmental Science",
-    "Gb",
-    "Guitar Ensemble",
-    "Infocomm",
-    "International Dance",
-    "Modular Sports",
-    "Netball",
-    "Netball Development Squad",
-    "Star",
-    "Tennis"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "The H.E.A.R.T of Communication (Heart, Head and Hands and Ears through Application in Real-life situations and Tiered)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports A. C�. E: Sports for All; Sports for Continuity & Character; Sports for Excellence"
+    }
+   ]
   },
   {
    "name": "St. Margaret's School (Secondary)",
@@ -11234,10 +11410,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Agape Club",
-    "Creative Art Club",
-    "Debate Club",
-    "Smarts Media"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED MUSIC PROGRAMME"
@@ -11276,11 +11453,25 @@
     "Tamil"
    ],
    "ccas": [
-    "Bowling",
-    "Media Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Emerging Technologies"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Music & Music Technology"
+    }
+   ]
   },
   {
    "name": "St. Stephen's School",
@@ -11313,9 +11504,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art & Media Club",
-    "Cub Scouts",
-    "Robotics, Science & Green"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11350,13 +11542,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Maker Education Leaders",
-    "Publications & Media Club",
-    "Science & Technology Club",
-    "Science Ambassadors",
-    "Show Choir",
-    "Swiss Dance",
-    "The Singapore National Cadet Corps Command Band"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11393,13 +11583,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Interact",
-    "Interactive Games",
-    "Makers",
-    "Media Resource",
-    "Outdoor Activities",
-    "Paddlers",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "DRAMA ELECTIVE PROGRAMME",
@@ -11438,7 +11625,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -11473,7 +11666,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -11508,13 +11706,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Choir",
-    "Concert Band",
-    "Dance Dynamics",
-    "Maker Faire Club",
-    "Modern Chinese Dance",
-    "Photo Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11551,8 +11746,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Interact Club",
-    "The Literary Arts Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "MUSIC ELECTIVE PROGRAMME"
@@ -11591,8 +11788,10 @@
     "Tamil"
    ],
    "ccas": [
-    "English Language Drama Club",
-    "Football"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11629,8 +11828,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Ava & Infocomm Club",
-    "Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ELECTIVE PROGRAMME IN MALAY LANGUAGE FOR SECONDARY SCHOOL (EMAS)",
@@ -11667,7 +11868,12 @@
    "motherTongues": [
     "Chinese"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": [
     {
@@ -11677,7 +11883,7 @@
     },
     {
      "kind": "LLP",
-     "domain": null,
+     "domain": "Sports & Outdoor Education",
      "title": "ENRICH@TNS"
     }
    ]
@@ -11712,7 +11918,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -11747,10 +11958,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Green Club",
-    "Infocomm Media Club",
-    "Multisports",
-    "Student Council"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11785,7 +11997,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -11821,14 +12038,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Debate Club",
-    "Indian Cultural Society",
-    "Infocomm Club",
-    "Leo Club (Community Service)",
-    "Malay Cultural Society",
-    "Outdoor Adventure Club",
-    "Outdoor Adventure Club (JC Only)",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (CHINESE)",
@@ -11868,10 +12082,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Club Eureka",
-    "Content Creators Club",
-    "Drama & Debate Society",
-    "International Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11906,7 +12120,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -11942,7 +12161,10 @@
     "Tamil"
    ],
    "ccas": [
-    "International Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -11977,7 +12199,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12011,7 +12238,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12047,13 +12279,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Festival Drums",
-    "Infocomm Club",
-    "International Dance",
-    "Lion Dance",
-    "Outdoor Club",
-    "Red Cross",
-    "Visual & Media Art Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12091,64 +12320,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Astronomy Club",
-    "Badminton",
-    "Basketball",
-    "Boys' Brigade",
-    "Chinese Orchestra",
-    "Chinese Society",
-    "Choir",
-    "Cricket",
-    "Cross Country",
-    "Dance Club",
-    "Data",
-    "Debates",
-    "Drama",
-    "Earth Watch",
-    "Floorball",
-    "Football",
-    "Girl Guides",
-    "Girls' Brigade",
-    "Guitar Ensemble",
-    "Hockey",
-    "Iglobe",
-    "Indian Cultural Society",
-    "Interact Club",
-    "Malay Cultural Society",
-    "Medical Society",
-    "Ncc (Air)",
-    "Ncc (Land)",
-    "Ncc (Sea)",
-    "Netball",
-    "Npcc",
-    "Outdoor Activities Club",
-    "Pa Crew",
-    "Photography Society",
-    "Robotics-Makers Club",
-    "Rockclimbing",
-    "Science Society",
-    "Singapore National Youth Chinese Orchestra",
-    "Singapore National Youth Orchestra",
-    "Singapore Red Cross Society",
-    "Singapore Youth Flying Club",
-    "St John Brigade",
-    "Strategic Games Club",
-    "String Ensemble",
-    "Student Initiated Groups",
-    "Students' Council",
-    "Studiov",
-    "Swimming",
-    "Symphonic Band",
-    "Table Tennis",
-    "Taekwondo",
-    "Tennis",
-    "Track & Field",
-    "Veconomist",
-    "Venture Scouts",
-    "Volleyball",
-    "Writers' Circle",
-    "Wushu"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "DRAMA ELECTIVE PROGRAMME"
@@ -12186,7 +12362,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [
     "ART ELECTIVE PROGRAMME",
     "REGIONAL STUDIES PROGRAMME"
@@ -12224,7 +12405,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12259,7 +12445,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12295,16 +12486,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Athletics Club",
-    "Boys Brigade",
-    "Boys' Scouts",
-    "Brownies",
-    "Dance Troupe",
-    "Infomedia Club",
-    "Nature Club",
-    "Robotix Club",
-    "Ukulele"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12341,7 +12526,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12376,8 +12566,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Infocomm Media",
-    "Symphonic Band"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12412,7 +12604,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12448,8 +12645,10 @@
     "Tamil"
    ],
    "ccas": [
-    "English Language, Drama And Library Club",
-    "Infocomm And Innovation Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12485,9 +12684,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Ava",
-    "Visual Arts",
-    "Westwood Flying Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12522,7 +12722,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12557,9 +12762,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "International Dance",
-    "Media Communications"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12595,7 +12801,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Chinese Dance"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12631,7 +12840,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12666,10 +12880,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Alp (Mtl)",
-    "Junior Winds",
-    "Step",
-    "We-Fit"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12705,10 +12919,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art And Craft Club",
-    "Brass Band",
-    "Drama & Literary Club",
-    "Science  Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12744,7 +12959,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12778,7 +12998,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12812,7 +13037,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12848,7 +13079,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Pottery Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12883,7 +13118,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12918,7 +13159,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -12954,7 +13200,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Sports Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -12991,8 +13240,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Cub Scouts",
-    "Green Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13029,7 +13280,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Language Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13064,7 +13318,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -13099,9 +13359,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Digital Animation Club",
-    "Mechatronics, Aeronautics & Robotics Club",
-    "Media Club"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13138,21 +13399,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Chinese Orchestra",
-    "Chorale",
-    "Class Leaders Council",
-    "Dance",
-    "English Debate Society",
-    "Interact Club",
-    "Makers' Academy",
-    "Modular Sports",
-    "Musicians' Club",
-    "Outdoor Adventure Club",
-    "Strategy Club",
-    "Symphonic Band",
-    "Talent Development",
-    "Ultimate Frisbee"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (MALAY)"
@@ -13191,7 +13441,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Floorball"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13228,8 +13482,11 @@
     "Tamil"
    ],
    "ccas": [
-    "D'lite (English Drama)",
-    "Ye@h"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13264,7 +13521,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (TAMIL)"
    ],
@@ -13300,7 +13562,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -13335,7 +13603,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -13369,7 +13642,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -13404,7 +13682,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Tinkering & Robotics"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ENHANCED MUSIC PROGRAMME"
@@ -13442,15 +13724,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "Choir",
-    "Creative Dance And Movement",
-    "Environment Club",
-    "Football",
-    "Guzheng Ensemble",
-    "Infocomm Club",
-    "Red Cross",
-    "String Ensemble"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13487,9 +13764,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Art Club",
-    "English Language Drama",
-    "Stem Club"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13527,11 +13806,11 @@
     "Tamil"
    ],
    "ccas": [
-    "Cluster Table Tennis",
-    "Drama Club",
-    "Eco-Eagles",
-    "Innotech Club",
-    "Sp-Cca Canoeing"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13567,7 +13846,12 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -13603,7 +13887,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Greenovation"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13639,7 +13926,13 @@
     "Malay",
     "Tamil"
    ],
-   "ccas": [],
+   "ccas": [
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
+   ],
    "programmes": [],
    "distinctive": []
   },
@@ -13674,7 +13967,10 @@
     "Tamil"
    ],
    "ccas": [
-    "Modular-Sports"
+    "Clubs And Societies",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [],
    "distinctive": []
@@ -13710,7 +14006,11 @@
     "Malay"
    ],
    "ccas": [
-    "[sjb] National Civil Defence Cadet Corps"
+    "Clubs And Societies",
+    "Others",
+    "Physical Sports",
+    "Uniformed Groups",
+    "Visual And Performing Arts"
    ],
    "programmes": [
     "ART ELECTIVE PROGRAMME"
