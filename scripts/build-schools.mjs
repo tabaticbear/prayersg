@@ -118,6 +118,7 @@ async function main() {
     console.log(`Fetching ${d.name}…`);
     const rows = await fetchDataset(d.id).catch((e) => (console.warn(`! ${e.message}`), []));
     console.log(`  ${rows.length} rows; columns: ${Object.keys(rows[0] ?? {}).join(", ")}`);
+    for (const r of rows.slice(0, 3)) console.log(`  sample: ${JSON.stringify(r)}`);
     return rows;
   };
   // Column names vary between dataset versions, so match by pattern.
