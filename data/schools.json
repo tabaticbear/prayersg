@@ -1,6 +1,6 @@
 {
  "source": "Ministry of Education, via data.gov.sg (Singapore Open Data Licence). Locations: OneMap, Singapore Land Authority.",
- "generatedAt": "2026-10-30T14:17:48.426Z",
+ "generatedAt": "2026-10-30T14:28:08.936Z",
  "count": 337,
  "schools": [
   {
@@ -40,7 +40,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Design Thinking for Sustainability (DTS @ Admiralty)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "High Performance Mind-set for Personal Leadership"
+    }
+   ]
   },
   {
    "name": "Admiralty Secondary School",
@@ -80,7 +91,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Design Thinking Through Innovation and Technology"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Nurturing Mindful Leaders through Community Outreach"
+    }
+   ]
   },
   {
    "name": "Ahmad Ibrahim Primary School",
@@ -120,7 +142,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Sustainability Education � Nurturing Students to be Stewards of Our Environment"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "The 3Rs � Leader U Development programme- From Values to Action: Developing Community-based Student Leaders"
+    }
+   ]
   },
   {
    "name": "Ahmad Ibrahim Secondary School",
@@ -162,7 +195,18 @@
    "programmes": [
     "ENHANCED MUSIC PROGRAMME"
    ],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Humanities",
+     "title": "Critical Social Inquiry and Media Literacy"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Development Through Outdoor Learning Experience (OLE)"
+    }
+   ]
   },
   {
    "name": "Ai Tong School",
@@ -251,7 +295,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Material Science",
+     "title": "Science, Design Technology & Design Thinking at ALPS (SDT2@ALPS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Cultural Intelligence (CQ) ? The Code of Life"
+    }
+   ]
   },
   {
    "name": "Anchor Green Primary School",
@@ -290,7 +345,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Empowering Learners to be Environmental Activists (ELEA)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
+    }
+   ]
   },
   {
    "name": "Anderson Primary School",
@@ -329,7 +395,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM  - Material Science",
+     "title": "Eureka!"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "VIVACE! - Values Inculcation Via Arts and Creative Experiences"
+    }
+   ]
   },
   {
    "name": "Anderson Secondary School",
@@ -455,7 +532,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "POISE@AMKP � Programme to develop Outstanding, Inspired and SEnsitive communicators at Ang Mo Kio Primary School"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Nurturing the Confident AMKPian"
+    }
+   ]
   },
   {
    "name": "Ang Mo Kio Secondary School",
@@ -494,7 +582,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Environment Sustainability through STEM"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Integrated Arts Programme"
+    }
+   ]
   },
   {
    "name": "Anglican High School",
@@ -817,7 +916,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Nurturing Problem Solvers through Computational Thinking"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Nurturing and Developing 21st Century Leaders through Enrichment and Lifeskills (ENL) Programmes"
+    }
+   ]
   },
   {
    "name": "Assumption English School",
@@ -949,7 +1059,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Chemical and Applied Sciences (Fragrance)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "i-LEAD @ Bartley to develop as Leaders for Others"
+    }
+   ]
   },
   {
    "name": "Beacon Primary School",
@@ -990,7 +1111,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Beacon Environmental Stewardship"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "BEACON FUTURE READY PROGRAMME (BFRP) - Beacon At Your Service (BAYS)"
+    }
+   ]
   },
   {
    "name": "Beatty Secondary School",
@@ -1030,7 +1162,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Cities and Urban Landscapes",
+     "title": "Beattyians Think.Create.Innovate - Programming for smart living"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Beatty�s Leaders for Life Programme"
+    }
+   ]
   },
   {
    "name": "Bedok Green Primary School",
@@ -1069,7 +1212,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Environmental Education (E2@BGPS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports and Aesthetics To Reinforce Values Education (STRIVE @ BGPS)"
+    }
+   ]
   },
   {
    "name": "Bedok Green Secondary School",
@@ -1109,7 +1263,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "Design and Aeronautical Engineering"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "PAssion Programme"
+    }
+   ]
   },
   {
    "name": "Bedok South Secondary School",
@@ -1148,7 +1313,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Project S.H.I.N.E -- An Integrated Student-Centred and Holistic Programme that Develops Innovation and Nurtures Empathy"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "SHAPE@BDS: A School of Healthy And Physically Educated Enthusiasts"
+    }
+   ]
   },
   {
    "name": "Bedok View Secondary School",
@@ -1187,7 +1363,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Humanities",
+     "title": "Global Awareness for the 21st Century @ BV"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Good Values @ BV"
+    }
+   ]
   },
   {
    "name": "Bendemeer Primary School",
@@ -1226,7 +1413,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "E2SL@BPS (Environment Education in Sustainable Living)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Bendemeer�s TEMPO (Towards Enhancement of Music and Performing Arts Opportunities)"
+    }
+   ]
   },
   {
    "name": "Bendemeer Secondary School",
@@ -1267,7 +1465,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Harnessing Technology for Healthcare"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Level-wide thematic approach to VIA, with skills, values and student ownership spiralling upwards"
+    }
+   ]
   },
   {
    "name": "Blangah Rise Primary School",
@@ -1306,7 +1515,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Material Science",
+     "title": "Aspiring Confident Engineers (ACE)@BRPS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Leader for Life"
+    }
+   ]
   },
   {
    "name": "Boon Lay Garden Primary School",
@@ -1346,7 +1566,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Thinking curriculum through Habits of Mind @ BLGPS - Developing Self-directed Learners"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Empowering the next generation of Eco Stewards through Environment Education"
+    }
+   ]
   },
   {
    "name": "Boon Lay Secondary School",
@@ -1387,7 +1618,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Exploring Possibilities in Materials Science"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "INSPIRE @ BLS"
+    }
+   ]
   },
   {
    "name": "Bowen Secondary School",
@@ -1426,7 +1668,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Business & Entrepreneurship",
+     "title": "Nurturing Creativity, Empathy and Enterprise through Social Entrepreneurship"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Bowen ChANgemakers Programme"
+    }
+   ]
   },
   {
    "name": "Broadrick Secondary School",
@@ -1465,7 +1718,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Broadrick Entrepreneurship in STEM"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Nurturing Confidence And REsilience (CARE) through Aesthetic, Community and Youth Leadership"
+    }
+   ]
   },
   {
    "name": "Bukit Batok Secondary School",
@@ -1505,7 +1769,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Cities and Urban Landscapes",
+     "title": "Developing Proactive Problem-Solvers who care for our World through STEM"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Developing Community Youth Leadership (CYL) through VIA - Journey to Become RESPECTful Leaders"
+    }
+   ]
   },
   {
    "name": "Bukit Merah Secondary School",
@@ -1544,7 +1819,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Creative Robotics and Engineering"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Development & Leadership through Sports"
+    }
+   ]
   },
   {
    "name": "Bukit Panjang Govt. High School",
@@ -1628,7 +1914,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "CAR2E : Critical & Appreciative Reading to Respond Empathetically"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "i2 Can Dance!"
+    }
+   ]
   },
   {
    "name": "Bukit Timah Primary School",
@@ -1668,7 +1965,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Inquiry-based Learning supported by Thinking Routines"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Music for Everyone - Building Empathy and Resilience"
+    }
+   ]
   },
   {
    "name": "Bukit View Primary School",
@@ -1709,7 +2017,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Inspiring Reflective and Innovative Self-directed learners (IRIS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Arts Alive! - Nurturing Confident Leaders through the Arts"
+    }
+   ]
   },
   {
    "name": "Bukit View Secondary School",
@@ -1749,7 +2068,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Clean Energy and Environmental Technology"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Learning the Arts, Living the Values"
+    }
+   ]
   },
   {
    "name": "Canberra Primary School",
@@ -1790,7 +2120,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "Foundation Stage: Start Young, Start It Right � Curating My Learning (P1 to P4); Orientation Stage: Orientation to My Future Learning � Ready for Tomorrow (P5 and P6)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Immersing in Canberra Experience through Musical Theatre Education"
+    }
+   ]
   },
   {
    "name": "Canberra Secondary School",
@@ -1829,7 +2170,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Aesthetics",
+     "title": "Digital Media in Visual Arts"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "GRC GEMS in action"
+    }
+   ]
   },
   {
    "name": "Canossa Catholic Primary School",
@@ -1868,7 +2220,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "MAKE@CCPS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Nurturing Physically Fit, Adventurous, Courageous and Empowered Leaders through Sports (PACE@CCPS)"
+    }
+   ]
   },
   {
    "name": "Cantonment Primary School",
@@ -1909,7 +2272,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Thinking Curriculum @Cantonment Primary School (TC@CPS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts/ Visual Arts & Design",
+     "title": "PAVE LLP; Performing Arts for Values and Excellence; Learning for Life Programme"
+    }
+   ]
   },
   {
    "name": "Casuarina Primary School",
@@ -1948,7 +2322,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Nature-based Education towards Environmental Sustainability"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "Holistic Education through the ARTS at Casuarina Primary School (HE�ARTS@CAPS)"
+    }
+   ]
   },
   {
    "name": "Catholic High School",
@@ -2112,7 +2497,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Creative and Inventive Thinking (CIT) Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Upstanding Leaders @ Cedar Primary School"
+    }
+   ]
   },
   {
    "name": "Changkat Changi Secondary School",
@@ -2151,7 +2547,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "SOAR @ CCSS - Student Centered Opportunities for AeRospace industries at CCSS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Service and Leadership through School to Nation"
+    }
+   ]
   },
   {
    "name": "Changkat Primary School",
@@ -2191,7 +2598,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "ECO@CKP"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports, Outdoor, Athletics & Recreation @ Changkat Primary (SOAR@CKP)"
+    }
+   ]
   },
   {
    "name": "Chij (Katong) Primary",
@@ -2813,7 +3231,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "EPIC -  Empowering Pupils to Innovate for the Community"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Chong Zheng Community Leaders (CZCL)"
+    }
+   ]
   },
   {
    "name": "Christ Church Secondary School",
@@ -2852,7 +3281,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Applied Learning Programme (ALP) in Health Science and Technology @ CHR"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Leadership through Outdoor Adventure Learning"
+    }
+   ]
   },
   {
    "name": "Chua Chu Kang Primary School",
@@ -2892,7 +3332,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "A Sustainable Environment with Robotics"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Leading through C.A.R.E"
+    }
+   ]
   },
   {
    "name": "Chua Chu Kang Secondary School",
@@ -2932,7 +3383,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Technology in Sustainability"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Student Leadership Development Programme"
+    }
+   ]
   },
   {
    "name": "Chung Cheng High School (Main)",
@@ -3066,7 +3528,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Inspiring Thinking Tinkerers @Clementi Primary: An Interdisciplinary Approach to develop Critical and Inventive Thinking, Collaborative and Communication skills"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "Instilling Lifelong Learning Through Visual Arts"
+    }
+   ]
   },
   {
    "name": "Clementi Town Secondary School",
@@ -3107,7 +3580,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Mastery through Application and Research in STEM (MARS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Learning for Life: Community Youth Leadership"
+    }
+   ]
   },
   {
    "name": "Commonwealth Secondary School",
@@ -3188,7 +3672,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Game Design and Making",
+     "title": "Developing 21st Century Competencies through Robotics"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Developing Aesthetics Appreciation  Through Music Empowerment"
+    }
+   ]
   },
   {
    "name": "Compassvale Secondary School",
@@ -3228,7 +3723,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "Aeronautics Applied Learning Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Inspired North Stars Inspire Actions"
+    }
+   ]
   },
   {
    "name": "Concord Primary School",
@@ -3267,7 +3773,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "E3 (Enable, Enrich and Empower) Reasoning @ Concord"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Outdoor Education@Concord"
+    }
+   ]
   },
   {
    "name": "Corporation Primary School",
@@ -3307,7 +3824,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Urban Food Warriors"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Creativity Through Dance"
+    }
+   ]
   },
   {
    "name": "Crescent Girls' School",
@@ -3428,7 +3956,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "Digital and Media Literacy through S.E.N.S.E@ Damai"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "SPARKS@Play Programme"
+    }
+   ]
   },
   {
    "name": "Damai Secondary School",
@@ -3467,7 +4006,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Environmental Sciences and Sustainability"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Development through Water and Adventure Sports"
+    }
+   ]
   },
   {
    "name": "Dazhong Primary School",
@@ -3508,7 +4058,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Green Makers@Dazhong"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Arts Education Programme (AEP) @ Dazhong"
+    }
+   ]
   },
   {
    "name": "De La Salle School",
@@ -3599,7 +4160,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Activating the Joy of Learning through Mi-ke-m?n Broadcast Journalism"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Nurturing Confident Communicators and Gracious Citizens through the Arts"
+    }
+   ]
   },
   {
    "name": "Dunearn Secondary School",
@@ -3639,7 +4211,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "FSciTech: Developing Dunearnites as confident and creative young scientists through Food Science and Technology"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Every Dunearnite a Community Youth Leader"
+    }
+   ]
   },
   {
    "name": "Dunman High School",
@@ -3761,7 +4344,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "Digital Creativity @ ESPS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "SPRING for Life - Developing Character through Sports"
+    }
+   ]
   },
   {
    "name": "East Spring Secondary School",
@@ -3801,7 +4395,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "21st Century Innovators through Health Science"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Community Youth Leadership"
+    }
+   ]
   },
   {
    "name": "Edgefield Primary School",
@@ -3841,7 +4446,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Environmental Science and Sustainability"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Values Inculcation through Dance"
+    }
+   ]
   },
   {
    "name": "Edgefield Secondary School",
@@ -3880,7 +4496,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Business & Entrepreneurship",
+     "title": "Growing the Edgefield Mindset (G.E.M)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Education Through Sports (Anchored on Taekwondo)"
+    }
+   ]
   },
   {
    "name": "Elias Park Primary School",
@@ -3919,7 +4546,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "nuCLEAR@EPPS (nurturing Citizen Leaders with Empathy And Resilience)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Arts Creatively Expressed @ Elias - ACE@Elias"
+    }
+   ]
   },
   {
    "name": "Endeavour Primary School",
@@ -3960,7 +4598,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Nurturing Thinking"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Every Child A Performer (ECAP)"
+    }
+   ]
   },
   {
    "name": "Eunoia Junior College",
@@ -4045,7 +4694,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Environmental Innovators and Agents of Change"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Learning Through The Arts & Learning In The Arts"
+    }
+   ]
   },
   {
    "name": "Evergreen Secondary School",
@@ -4085,7 +4745,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Effective Communicators with a Heart"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Strengthening Resilience, Character and Leadership through Sports Education"
+    }
+   ]
   },
   {
    "name": "Fairfield Methodist School (Primary)",
@@ -4218,7 +4889,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Caring for the Community through Interdisciplinary Learning"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "iCARE - Leaders of Tomorrow"
+    }
+   ]
   },
   {
    "name": "Fengshan Primary School",
@@ -4258,7 +4940,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Sustainability � Nurturing Environment Champions for a Sustainable Future"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Anchored and Driven Leaders through Sports Excellence"
+    }
+   ]
   },
   {
    "name": "Fern Green Primary School",
@@ -4298,7 +4991,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "FGPS Maker Education"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Get REAL!@FGPS (Relate, Explore, Acquire for Life)"
+    }
+   ]
   },
   {
    "name": "Fernvale Primary School",
@@ -4338,7 +5042,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Future Skills programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Greenova- Innovation in our green efforts"
+    }
+   ]
   },
   {
    "name": "First Toa Payoh Primary School",
@@ -4378,7 +5093,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "Literacy Through Photojournalism"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Building Through Outdoor Experiential Learning"
+    }
+   ]
   },
   {
    "name": "Frontier Primary School",
@@ -4419,7 +5145,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Nurturing the Thinking F.A.C.E (Frontierers who are Adaptive, Communicative and Empowered) for tomorrow"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "DANCEFRONT (LLP)"
+    }
+   ]
   },
   {
    "name": "Fuchun Primary School",
@@ -4458,7 +5195,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Speak Up!"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Aesthetically Responding To Shine (ARTS)"
+    }
+   ]
   },
   {
    "name": "Fuhua Primary School",
@@ -4498,7 +5246,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Transportation",
+     "title": "Students As Designers for the 21st Century"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Environmental Champions @ FHPS Programme"
+    }
+   ]
   },
   {
    "name": "Fuhua Secondary School",
@@ -4538,7 +5297,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Forensic Science@Fuhua"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Leadership through Service"
+    }
+   ]
   },
   {
    "name": "Gan Eng Seng Primary School",
@@ -4577,7 +5347,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "From Farm to Table"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "For the Love of the Arts"
+    }
+   ]
   },
   {
    "name": "Gan Eng Seng School",
@@ -4771,7 +5552,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Fluent Speakers Future Stars- Developing Gongshangers into Effective Communicators"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "S.O.A.R. (Sports Opportunities and Achievement pRogramme)"
+    }
+   ]
   },
   {
    "name": "Greendale Primary School",
@@ -4812,7 +5604,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Learning by Design"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Developing 21st Century Lifelong Learners through Outdoor Education"
+    }
+   ]
   },
   {
    "name": "Greendale Secondary School",
@@ -4852,7 +5655,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Design, Technology and Engineering ALP Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Development through Outdoor and Adventure Education"
+    }
+   ]
   },
   {
    "name": "Greenridge Primary School",
@@ -4892,7 +5706,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health Science",
+     "title": "C.O.D.E.R.S (Computational Thinking to Develop Empathetic, Resilient Solvers)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "NE2+ (positive): Nurturing Ethical and Effective Leaders with Positive mind-sets"
+    }
+   ]
   },
   {
    "name": "Greenridge Secondary School",
@@ -4932,7 +5757,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Confident & Persuasive Communicators: Debate & New Media"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Rise to Lead"
+    }
+   ]
   },
   {
    "name": "Greenwood Primary School",
@@ -4972,7 +5808,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Bilingual LIterature Appreciation Student Series (BLISS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "We are Thinking, Inventive and Zealous KIdZ (WHIZZ) to serve the community"
+    }
+   ]
   },
   {
    "name": "Guangyang Secondary School",
@@ -5011,7 +5858,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Sustainability"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Act Up! Speak Up!"
+    }
+   ]
   },
   {
    "name": "Hai Sing Catholic School",
@@ -5153,7 +6011,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "HPPS ALP Sustainability Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports4Life@HPPS"
+    }
+   ]
   },
   {
    "name": "Hillgrove Secondary School",
@@ -5193,7 +6062,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "Broadening Learning Horizons through Flight and Aerospace"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Arts E3: Engage, Excite, Empower!"
+    }
+   ]
   },
   {
    "name": "Holy Innocents' High School",
@@ -5282,7 +6162,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Digiminds@HIPS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "Artistry in Ceramic @ HIPS"
+    }
+   ]
   },
   {
    "name": "Hong Wen School",
@@ -5371,7 +6262,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Computational Thinking in Mathematics"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "A Whole-school Student Leadership Development Programme through CCE"
+    }
+   ]
   },
   {
    "name": "Hougang Primary School",
@@ -5411,7 +6313,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "X-Cell@HGP"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Development through Outdoor Education"
+    }
+   ]
   },
   {
    "name": "Hougang Secondary School",
@@ -5450,7 +6363,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Promoting Communication Skills using Authentic Learning as a Platform"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Values in action, a Hougean way of life"
+    }
+   ]
   },
   {
    "name": "Hua Yi Secondary School",
@@ -5491,7 +6415,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Technology for Active Living"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Community and Youth Leadership in Hua Yi"
+    }
+   ]
   },
   {
    "name": "Huamin Primary School",
@@ -5532,7 +6467,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Education for Sustainable Development (ESD @ Huamin)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "Creative Arts Programme for Students (C.A.P.S.)"
+    }
+   ]
   },
   {
    "name": "Hwa Chong Institution",
@@ -5614,7 +6560,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Creative Problem Solving at Innova Primary School (CPS@IPS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Leading Through Serving"
+    }
+   ]
   },
   {
    "name": "Jiemin Primary School",
@@ -5653,7 +6610,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Journalist-in-Making (JiM)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Aesthetics Alive"
+    }
+   ]
   },
   {
    "name": "Jing Shan Primary School",
@@ -5693,7 +6661,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Green Explorers @ JS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Flourish @ JS: Character Strengths, Mindfulness and Gratitude in Action"
+    }
+   ]
   },
   {
    "name": "Junyuan Primary School",
@@ -5734,7 +6713,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Developing Every Pupil into a Confident Communicator"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts/ Visual Arts & Design",
+     "title": "Arts Alive!"
+    }
+   ]
   },
   {
    "name": "Junyuan Secondary School",
@@ -5773,7 +6763,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Developing Application-based Learning through Food Science"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Cultivating Community Champions through Youth Leadership"
+    }
+   ]
   },
   {
    "name": "Jurong Pioneer Junior College",
@@ -5857,7 +6858,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "PLAY@JPS  (Passion, Learning, Adapt & Apply, asking whY)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Every Child A Leader @ JPS (ECAL @ JPS)"
+    }
+   ]
   },
   {
    "name": "Jurong Secondary School",
@@ -5897,7 +6909,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Cities and Urban Landscapes",
+     "title": "Design for Smart and Sustainable Urban Living"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sporty at Heart, Sporting in Mind"
+    }
+   ]
   },
   {
    "name": "Jurong West Primary School",
@@ -5938,7 +6961,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Art of Communication for Personal Excellence"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Experiential Learning of Lifeskills for Personal Excellence"
+    }
+   ]
   },
   {
    "name": "Jurong West Secondary School",
@@ -5980,7 +7014,18 @@
    "programmes": [
     "ENHANCED ART PROGRAMME"
    ],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Aesthetics",
+     "title": "Harnessing Technology, Communication and the Visual Arts in Authentic Contexts"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "LLP @ JWSS - Community Youth Leadership"
+    }
+   ]
   },
   {
    "name": "Jurongville Secondary School",
@@ -6020,7 +7065,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Real World Learning through Electronics"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports for Life"
+    }
+   ]
   },
   {
    "name": "Juying Secondary School",
@@ -6060,7 +7116,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Developing Confident, Competent and Empathetic Communicators"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Developing Self-Directed & Intrinsically Motivated Learners through PASSION"
+    }
+   ]
   },
   {
    "name": "Keming Primary School",
@@ -6099,7 +7166,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "INquiry Science Projects Involving Research and Experiments (I.N.S.P.I.R.E. the Scientist in Me)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Development through Sports"
+    }
+   ]
   },
   {
    "name": "Kent Ridge Secondary School",
@@ -6138,7 +7216,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Developing Computational Thinking through Robotics"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "EVOKE!@KR (Educational Values of Olympism at Kent Ridge) through Sports and Outdoor Education"
+    }
+   ]
   },
   {
    "name": "Kheng Cheng School",
@@ -6277,7 +7366,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Material Science",
+     "title": "Nurturing Joyful Learners through Critical and Inventive Thinking"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Developing Champions in Life through Sports"
+    }
+   ]
   },
   {
    "name": "Kranji Secondary School",
@@ -6316,7 +7416,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Design Innovation for Sustainable Living"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Nurturing a Leader in Every Kranjian through Community and Youth Leadership"
+    }
+   ]
   },
   {
    "name": "Kuo Chuan Presbyterian Primary School",
@@ -6357,7 +7468,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "E-Cube: Engage, Excite, Express"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "Learning for Life Programme in Visual Art and Design - �Let�s Think Design!�"
+    }
+   ]
   },
   {
    "name": "Kuo Chuan Presbyterian Secondary School",
@@ -6397,7 +7519,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "(P.A.C.E) Participate, Access/Analyse, Create, Evaluate in KCPSS Media Literacy Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "It�s B.a.S.i.C! � Being a Servant Leader in the Community"
+    }
+   ]
   },
   {
    "name": "Lakeside Primary School",
@@ -6437,7 +7570,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "ThInkers with Heart"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "STARS witHeARTs - Shine as Thinkers and Responsible Leaders with the Performing ARTs"
+    }
+   ]
   },
   {
    "name": "Lianhua Primary School",
@@ -6478,7 +7622,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Robotics, Information and Technology Education (RITE) @ Lianhua"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "CHAMP for Life"
+    }
+   ]
   },
   {
    "name": "Loyang View Secondary School",
@@ -6517,7 +7672,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Design and Engineering"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Student Leadership, Sports & Outdoor Education (Character Development Through Exposure, Empowerment & Excellence)"
+    }
+   ]
   },
   {
    "name": "Maha Bodhi School",
@@ -6604,7 +7770,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Cities and Urban Landscapes",
+     "title": "Smart City & Assistive Technologies"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Learning through the ARTS"
+    }
+   ]
   },
   {
    "name": "Maris Stella High School",
@@ -6686,7 +7863,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Spark Ideas, Spark Interest, Spark Action: Igniting A Passion for Purposeful Storytelling (SPARKS@MPS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "LEAD (Learn, Engage, Absorb, Demonstrate) to Serve @ MPS"
+    }
+   ]
   },
   {
    "name": "Marsiling Secondary School",
@@ -6725,7 +7913,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Eco-Sustainability through Inquiry-based Learning"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "HEART - HEalthy and Active youth for the community through outdooR and health promoTing curriculum"
+    }
+   ]
   },
   {
    "name": "Marymount Convent School",
@@ -6818,7 +8017,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "STEM@MFPS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "LLP@MFPS: Development of Character, Citizenship and 21CC through the Arts"
+    }
+   ]
   },
   {
    "name": "Mayflower Secondary School",
@@ -6857,7 +8067,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Developing confidence and curiosity through effective communication"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Developing a Zest for Life through Music, Performing and Visual Arts"
+    }
+   ]
   },
   {
    "name": "Mee Toh School",
@@ -6949,7 +8170,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Nurturing Future Learners, Citizens and Leaders through a whole school Interdisciplinary approach in Eco-Environmental Curriculum"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Meridian Values-Based Student Leadership In Action For 21CC"
+    }
+   ]
   },
   {
    "name": "Meridian Secondary School",
@@ -6991,7 +8223,18 @@
    "programmes": [
     "ENHANCED ART PROGRAMME"
    ],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Aesthetics",
+     "title": "Applied Learning Programme in Visual Communication"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "To develop leaders of sound character who are anchored in values, effective in leadership and altruistic in service."
+    }
+   ]
   },
   {
    "name": "Methodist Girls' School (Primary)",
@@ -7164,7 +8407,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Montfort STEAM ALP"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Developing Montfortians with CHRISTE values through sports"
+    }
+   ]
   },
   {
    "name": "Montfort Secondary School",
@@ -7205,7 +8459,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Made In Montfort � Design, Code, Make"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Student Leadership through Outdoor Adventure & Sports"
+    }
+   ]
   },
   {
    "name": "Nan Chiau High School",
@@ -7299,7 +8564,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health Science",
+     "title": "Watch Me SOAR (WMS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "EMPOWER@NCPS"
+    }
+   ]
   },
   {
    "name": "Nan Hua High School",
@@ -7376,7 +8652,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "NHPS Thinking Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "From ME to WE (MEWE)"
+    }
+   ]
   },
   {
    "name": "Nanyang Girls' High School",
@@ -7501,7 +8788,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "Problem-Solving Through Maker Education"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Building Culture Quotient through Dance"
+    }
+   ]
   },
   {
    "name": "National Junior College",
@@ -7587,7 +8885,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Constructionist Game Design"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Holistic Outdoor Physical Education & Sports (HOPES) Programmes"
+    }
+   ]
   },
   {
    "name": "Naval Base Secondary School",
@@ -7628,7 +8937,18 @@
    "programmes": [
     "ENHANCED ART PROGRAMME"
    ],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Aesthetics",
+     "title": "ALP in Art"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Education through Sports"
+    }
+   ]
   },
   {
    "name": "New Town Primary School",
@@ -7668,7 +8988,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "scieNcE Alive@NEwTown"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "A Leader in Every Child"
+    }
+   ]
   },
   {
    "name": "New Town Secondary School",
@@ -7710,7 +9041,18 @@
    "programmes": [
     "ENHANCED ART PROGRAMME"
    ],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Digital Communicators, Change Makers"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Nurturing Leaders of the Future through SPARK"
+    }
+   ]
   },
   {
    "name": "Ngee Ann Primary School",
@@ -7751,7 +9093,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Sustainable Green"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "GRACE (Graciousness through Arts, Creating Excellence) in Performing Arts Programme"
+    }
+   ]
   },
   {
    "name": "Ngee Ann Secondary School",
@@ -7832,7 +9185,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Maker�s Sustainability Education"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Play Your Hearts Out @  North Spring"
+    }
+   ]
   },
   {
    "name": "North View Primary School",
@@ -7872,7 +9236,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Sustainable Living Starts with Me"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Every Pupil a Confident Performer"
+    }
+   ]
   },
   {
    "name": "North Vista Primary School",
@@ -7913,7 +9288,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "Play. Create. Share"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "ArtsALIVE@VISTA"
+    }
+   ]
   },
   {
    "name": "North Vista Secondary School",
@@ -7954,7 +9340,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Cities and Urban Landscapes",
+     "title": "Farm-to-Table"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "Nurturing Creative Problem Solvers through the Arts & Design"
+    }
+   ]
   },
   {
    "name": "Northbrooks Secondary School",
@@ -7994,7 +9391,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "Northbrooks Aerospace Programme (Applied Learning In Aerospace)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Northbrooks Outdoor Education: Adventure, Character, Environment (A.C.E.) Programme"
+    }
+   ]
   },
   {
    "name": "Northland Primary School",
@@ -8033,7 +9441,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Applied Thinking Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "My Story, My Stage"
+    }
+   ]
   },
   {
    "name": "Northland Secondary School",
@@ -8073,7 +9492,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Eldertech - Technology for Adaptive Aging"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Game for Life (GfL) � �Empowering our Active Sportsmen�"
+    }
+   ]
   },
   {
    "name": "Northlight School",
@@ -8152,7 +9582,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Curriculum Integration through Innovation"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "SporTs, OutdooR Programme and Inculcation of Values Education (STRIVE) @ Northoaks"
+    }
+   ]
   },
   {
    "name": "Northshore Primary School",
@@ -8191,7 +9632,13 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Outdoor Education and Caring for our Environment @ Northshore (OCE@N)"
+    }
+   ]
   },
   {
    "name": "Nus High School Of Mathematics And Science",
@@ -8267,7 +9714,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Nurturing Language Artisans through an Interdisciplinary Approach"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Lead with a Heart, Changemakers for The Future"
+    }
+   ]
   },
   {
    "name": "Opera Estate Primary School",
@@ -8307,7 +9765,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Opera Goes Green (OPG)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Ignite De Arts @ OEPS"
+    }
+   ]
   },
   {
    "name": "Orchid Park Secondary School",
@@ -8349,7 +9818,18 @@
    "programmes": [
     "ENHANCED ART PROGRAMME"
    ],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Aesthetics",
+     "title": "ARTopIA"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Community OutReach Education (CORE) Programme"
+    }
+   ]
   },
   {
    "name": "Outram Secondary School",
@@ -8389,7 +9869,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Business & Entrepreneurship",
+     "title": "Business and Enterprise"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports For Life@Outram"
+    }
+   ]
   },
   {
    "name": "Palm View Primary School",
@@ -8429,7 +9920,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Act-cellent Education through Drama"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "The Palm View Challenge � A Leader, An Advocate, A Force For Good"
+    }
+   ]
   },
   {
    "name": "Park View Primary School",
@@ -8469,7 +9971,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "Innovation through Service and Leadership (iSL@PVPS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports Experiential Programme"
+    }
+   ]
   },
   {
    "name": "Pasir Ris Crest Secondary School",
@@ -8509,7 +10022,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Effective Communicators who impact with the heart and mind"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Nurturing Crestian Leaders of Tomorrow through Music and the Performing Arts"
+    }
+   ]
   },
   {
    "name": "Pasir Ris Primary School",
@@ -8548,7 +10072,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "D2C@PRPS: Discover, Dream and Create Possibilities"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "E3 in Sports@PRPS"
+    }
+   ]
   },
   {
    "name": "Pasir Ris Secondary School",
@@ -8588,7 +10123,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Humanities",
+     "title": "Eye on the World:  Stories through Journalism"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Cultural Fusion"
+    }
+   ]
   },
   {
    "name": "Paya Lebar Methodist Girls' School (Primary)",
@@ -8768,7 +10314,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Competent, Confident Communicators"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Developing Character and Leadership through STAR (Self-defence, Track & field, Adventure and Racquet games) @ PHPPS"
+    }
+   ]
   },
   {
    "name": "Pei Hwa Secondary School",
@@ -8808,7 +10365,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Coding and Making"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "PRIDE of the Community: Developing An Altruist"
+    }
+   ]
   },
   {
    "name": "Pei Tong Primary School",
@@ -8848,7 +10416,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "PLANET (Pei Tong Learn and Nurture the Environment with Technology)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "I�MADD"
+    }
+   ]
   },
   {
    "name": "Peicai Secondary School",
@@ -8888,7 +10467,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Applied food science & processing"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Becoming Persons for Others � Developing Leadership through and for the Community"
+    }
+   ]
   },
   {
    "name": "Peirce Secondary School",
@@ -8929,7 +10519,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Deepening Reflection and Developing Critical Thinking through Media"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Developing Community Leaders with the Heart to Serve through Uniformed Groups"
+    }
+   ]
   },
   {
    "name": "Peiying Primary School",
@@ -8968,7 +10569,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Project THINK (Thinking Holistic Innovative Networked Kids) for Home Earth"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports, Character Development and Adventure Learning Experiences @ Peiying (SCALE@PEIYING)"
+    }
+   ]
   },
   {
    "name": "Pioneer Primary School",
@@ -9009,7 +10621,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Advocacy through Thinking"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Fitness and Graciousness Through Dance"
+    }
+   ]
   },
   {
    "name": "Poi Ching School",
@@ -9150,7 +10773,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "Designing For InclUsivity (Design4U)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "The LOVE (Learning Our Values through Empathy) Experience"
+    }
+   ]
   },
   {
    "name": "Punggol Cove Primary School",
@@ -9191,7 +10825,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Holistic English Literacy Programme (HELP)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts/ Visual Arts & Design",
+     "title": "Grow Every Music Student (GEMS@PC)"
+    }
+   ]
   },
   {
    "name": "Punggol Green Primary School",
@@ -9232,7 +10877,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Action for a Sustainable Future through Science - IGNITE (Inspiring Generations of Novel & Innovative Thinkers & Explorers in Sustainability) @ PGPS Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Student Leadership (APPLE-Achieving Purpose and Performance in Leadership Excellence @ PGPS Programme)"
+    }
+   ]
   },
   {
    "name": "Punggol Primary School",
@@ -9272,7 +10928,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "GreeNovation"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Social-emotional learning and character development Through Active paRticipation in Sports & outdoor education (S.T.A.R.S.) programme"
+    }
+   ]
   },
   {
    "name": "Punggol Secondary School",
@@ -9312,7 +10979,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Applied Learning Programme in Environment Education"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Serving with values, developing a community of confident leaders and learners."
+    }
+   ]
   },
   {
    "name": "Punggol View Primary School",
@@ -9352,7 +11030,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "E2C@PGVP (Effective and Empathetic Communicators)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Building of Character through Outdoor Experiential Learning"
+    }
+   ]
   },
   {
    "name": "Qifa Primary School",
@@ -9391,7 +11080,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Effective Communication"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "CHAMPS (CHAracter Moulding Programme through Sports)@Qifa"
+    }
+   ]
   },
   {
    "name": "Qihua Primary School",
@@ -9431,7 +11131,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "Inventive and Critical Thinking Skills through Innovation and Entrepreneurship Excellence Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Promotion of School Values through Sports Development Programme (SDP)"
+    }
+   ]
   },
   {
    "name": "Queenstown Primary School",
@@ -9471,7 +11182,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Environmental Project-based Learning"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "Connecting the heARTs with ARTs"
+    }
+   ]
   },
   {
    "name": "Queenstown Secondary School",
@@ -9510,7 +11232,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Humanities",
+     "title": "Environmental Sustainability"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Dare to Serve -- QUEST Leadership Development through Community Youth Leadership"
+    }
+   ]
   },
   {
    "name": "Queensway Secondary School",
@@ -9550,7 +11283,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Sustainability (Water & Food)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "QSS Sports and Outdoor Education (SOE) Programme"
+    }
+   ]
   },
   {
    "name": "Radin Mas Primary School",
@@ -9591,7 +11335,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Game Design and Making",
+     "title": "Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "G.R.I.T@RMPS - Growth Mindset.Resilience.Independence.Teamwork"
+    }
+   ]
   },
   {
    "name": "Raffles Girls' Primary School",
@@ -9631,7 +11386,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Nurturing Confident Communicators"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Developing Creativity Through Collaborative Music Making"
+    }
+   ]
   },
   {
    "name": "Raffles Girls' School (Secondary)",
@@ -9813,7 +11579,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Create � Connect � Innovate (Emerging Technologies)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Empowering every Regenite to be a Responsible and Confident Leader, Committed to Excellence"
+    }
+   ]
   },
   {
    "name": "River Valley High School",
@@ -9897,7 +11674,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Comms-IT Rt!"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Every RVian a Leader"
+    }
+   ]
   },
   {
    "name": "Riverside Primary School",
@@ -9936,7 +11724,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Playworks � Nurturing Critical and Inventive Thinkers"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "PeerWorks - Building Self, Supporting One Another, Serving the Community Together"
+    }
+   ]
   },
   {
    "name": "Riverside Secondary School",
@@ -9977,7 +11776,18 @@
    "programmes": [
     "LANGUAGE ELECTIVE PROGRAMME (TAMIL)"
    ],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Humanities",
+     "title": "Global Citizenship Education through Critical Social Inquiry"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Arts for Life"
+    }
+   ]
   },
   {
    "name": "Rivervale Primary School",
@@ -10017,7 +11827,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Multi-Literacy Programme (MLP)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Dance and Fitness"
+    }
+   ]
   },
   {
    "name": "Rosyth School",
@@ -10110,7 +11931,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Transportation",
+     "title": "Robotics for a Better World"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports Teach Responsibility, Inventiveness, Values & Excellence (STRIVE) @ Rulang"
+    }
+   ]
   },
   {
    "name": "School Of Science And Technology, Singapore",
@@ -10226,7 +12058,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Environmental Science"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Nurturing Self Leaders, Community Leaders and Peer Leaders who Advocate and Affect Positive Changes"
+    }
+   ]
   },
   {
    "name": "Sembawang Secondary School",
@@ -10266,7 +12109,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Humanities",
+     "title": "Critical & Inventive Thinking (CIT) through Media Literacy"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Youth Leadership in Service of the Community"
+    }
+   ]
   },
   {
    "name": "Seng Kang Primary School",
@@ -10305,7 +12159,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Enhanced Spoken English Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Developing Values and Leadership through Sports Education"
+    }
+   ]
   },
   {
    "name": "Seng Kang Secondary School",
@@ -10346,7 +12211,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Health Science & Technology"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Building Character through Sports & Outdoor Adventure"
+    }
+   ]
   },
   {
    "name": "Sengkang Green Primary School",
@@ -10386,7 +12262,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Future Skills through Experiential Project Work"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Fostering ICAR2E THROUGH THE ARTS"
+    }
+   ]
   },
   {
    "name": "Serangoon Garden Secondary School",
@@ -10426,7 +12313,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Humanities",
+     "title": "Researching Society through Media Literacy"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Nurturing Confident and Compassionate Leaders"
+    }
+   ]
   },
   {
    "name": "Serangoon Secondary School",
@@ -10467,7 +12365,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "Real-world Explorations in ICT"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Project Ablaze: Harnessing Student Leadership in the Service of Community"
+    }
+   ]
   },
   {
    "name": "Shuqun Primary School",
@@ -10508,7 +12417,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Caring and Responsible Environmentalist (CaRE) Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character and Leadership development through ADventure (CLAD)"
+    }
+   ]
   },
   {
    "name": "Si Ling Primary School",
@@ -10548,7 +12468,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Environmental Science Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Community and Student Leadership"
+    }
+   ]
   },
   {
    "name": "Singapore Chinese Girls' Primary School",
@@ -10589,7 +12520,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Stories Opening Windows to the world: Using narratives to appreciate Culture, build Connections and effect Change"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "SCGS, Arts For �Ur� Life (SC-ArtFUL)"
+    }
+   ]
   },
   {
    "name": "Singapore Chinese Girls' School",
@@ -10712,7 +12654,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "Sustaining Gaia"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Love Dance.  Love Life!"
+    }
+   ]
   },
   {
    "name": "Spectra Secondary School",
@@ -10795,7 +12748,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Nurturing Empathetic Change Makers"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Nurturing Leaders with a Heart"
+    }
+   ]
   },
   {
    "name": "Springfield Secondary School",
@@ -10833,7 +12797,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Health and Food Science"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "GEARing Springfielders for Success"
+    }
+   ]
   },
   {
    "name": "St Andrew's Junior College",
@@ -10993,7 +12968,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Inno-Eco-Creator Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Building Leaders with a Heart for Others through Sports and Arts"
+    }
+   ]
   },
   {
    "name": "St. Anthony's Canossian Secondary School",
@@ -11072,7 +13058,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Game Design and Making",
+     "title": "CODE@SAPS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "SAPS Visual Arts Programme (SAPS VAP): Learn, Grow and Serve"
+    }
+   ]
   },
   {
    "name": "St. Gabriel's Primary School",
@@ -11111,7 +13108,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "Gabrielite Digital Literacy Programme (GDLP)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Montfortian Leadership Programme (MLP)"
+    }
+   ]
   },
   {
    "name": "St. Gabriel's Secondary School",
@@ -11151,7 +13159,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "Future of Transportation (Flight & Aerospace)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Integrated Character and Citizenship Education of growing Community Youth Leaders through Service and Leadership."
+    }
+   ]
   },
   {
    "name": "St. Hilda's Primary School",
@@ -11192,7 +13211,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "The Hildan Ambassador Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "IMPRINTS Alive! Nurturing Creativity and Culture through Performing Arts, Visual Arts and Leadership"
+    }
+   ]
   },
   {
    "name": "St. Hilda's Secondary School",
@@ -11232,7 +13262,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "The Hildan Approach to Teaching Thinking through English Language Learning"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Develop a Whole Person through Sports and Outdoor Education"
+    }
+   ]
   },
   {
    "name": "St. Joseph's Institution",
@@ -11549,7 +13590,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Applied Sciences for Sustainable Development"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Thoughtful Leadership Programme"
+    }
+   ]
   },
   {
    "name": "Tampines Meridian Junior College",
@@ -11633,7 +13685,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "I am a TNPS Influencer"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Green for Life (G4Life) Programme: Character Building through Environment Education"
+    }
+   ]
   },
   {
    "name": "Tampines Primary School",
@@ -11673,7 +13736,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "STAR ACTtituDE: Students with Strengths, Talents, Aspiration and Resilience to Achieve Creativity and Confidence with Transformation inspired through Drama in Education"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Future-ready Citizens - Developing the Community Leader"
+    }
+   ]
   },
   {
    "name": "Tampines Secondary School",
@@ -11712,7 +13786,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Creative Engineering : Inter-disciplinary Authentic Problem Solving"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Creative Expressions: Character development through visual and performing arts"
+    }
+   ]
   },
   {
    "name": "Tanjong Katong Girls' School",
@@ -11794,7 +13879,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "D.R.I.V.E. - Developing Resilient Innovative Entrepreneurs"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Team Sports Excellence @ TKP"
+    }
+   ]
   },
   {
    "name": "Tanjong Katong Secondary School",
@@ -11925,7 +14021,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "TinkeringG Stars"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "The Art of Communication through Multimedia"
+    }
+   ]
   },
   {
    "name": "Teck Whye Primary School",
@@ -11965,7 +14072,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Media Whiz Kids! Nurturing Confident and Media Literate Communicators"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "I-LEAD, I-SERVE � Leadership through Service"
+    }
+   ]
   },
   {
    "name": "Telok Kurau Primary School",
@@ -12004,7 +14122,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Game Design and Making",
+     "title": "Innovative Thinking through Coding and Robotics"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Character Development through Team Sports"
+    }
+   ]
   },
   {
    "name": "Temasek Junior College",
@@ -12088,7 +14217,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "RoboALERT (Applicative Learning Experience through Robotics at Temasek)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "SOAR -- Sports Opportunities for Active lifestyle and physical Resilience"
+    }
+   ]
   },
   {
    "name": "Temasek Secondary School",
@@ -12167,7 +14307,13 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "iDARE through the ARTs"
+    }
+   ]
   },
   {
    "name": "Unity Primary School",
@@ -12206,7 +14352,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Critical Thinking Accelerated Programme (CAPtivate)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "CharGE UP! (Character Development through Green & Experiential Learning @ Unity Primary)"
+    }
+   ]
   },
   {
    "name": "Unity Secondary School",
@@ -12245,7 +14402,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Sustainability Education @ USS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Lead through Outdoor and Sporting Adventures"
+    }
+   ]
   },
   {
    "name": "Valour Primary School",
@@ -12285,7 +14453,13 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Growing Kindness through the Outdoors"
+    }
+   ]
   },
   {
    "name": "Victoria Junior College",
@@ -12412,7 +14586,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Orators@Waterway"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Growth and Benefit Mindset @ Waterway"
+    }
+   ]
   },
   {
    "name": "Wellington Primary School",
@@ -12452,7 +14637,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "New Media and Artificial Intelligence For Us (AI4U)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Artivists with a HeART"
+    }
+   ]
   },
   {
    "name": "West Grove Primary School",
@@ -12492,7 +14688,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Empowered Emissary of the Environment (E3) Programme"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Gracious Leaders"
+    }
+   ]
   },
   {
    "name": "West Spring Primary School",
@@ -12533,7 +14740,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Sustaining the Earth with Applied Solutions (SEAS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Joyful ExperienC.E. @ West Spring (ExperienC.E. � Experience Challenging Endeavours)"
+    }
+   ]
   },
   {
    "name": "West Spring Secondary School",
@@ -12572,7 +14790,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Humanities",
+     "title": "Effective Communication and Critical Thinking through Media Literacy"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "STAR (Sportsmanship, Teamwork and Resilience) through Sports and Music"
+    }
+   ]
   },
   {
    "name": "West View Primary School",
@@ -12611,7 +14840,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "F.R.I.E.N.D of Earth"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "ACE the Arts (Appreciate, Create, Explore to Excel)"
+    }
+   ]
   },
   {
    "name": "Westwood Primary School",
@@ -12651,7 +14891,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Positive Design and Maker Education"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Igniting Young Hearts with a Passion for the Community and Service Leadership through Positive Education"
+    }
+   ]
   },
   {
    "name": "Westwood Secondary School",
@@ -12690,7 +14941,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Business & Entrepreneurship",
+     "title": "Innovation & Social Entrepreneurship"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Arts for Life!"
+    }
+   ]
   },
   {
    "name": "White Sands Primary School",
@@ -12729,7 +14991,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "The E� journey \n(Excite, Enable, Excel)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "HeARTs @ WSPS\n(Heritage ART @ WSPS)"
+    }
+   ]
   },
   {
    "name": "Whitley Secondary School",
@@ -12768,7 +15041,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Speech Communication Arts"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Active Citizenship for Social Change"
+    }
+   ]
   },
   {
    "name": "Woodgrove Primary School",
@@ -12807,7 +15091,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Effective Communication through Drama Pedagogies"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Shine and Succeed through Dance"
+    }
+   ]
   },
   {
    "name": "Woodgrove Secondary School",
@@ -12847,7 +15142,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "STEM for Sustainable Living in the Community"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Learners and Leaders for Life"
+    }
+   ]
   },
   {
    "name": "Woodlands Primary School",
@@ -12886,7 +15192,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "Joy of Learning Languages (JOL2@WOODS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Sports Performance And Character Education (SPACE)"
+    }
+   ]
   },
   {
    "name": "Woodlands Ring Primary School",
@@ -12926,7 +15243,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Game Design and Making",
+     "title": "Be a deSign Thinker (B.E.S.T)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "I can Soar Leadership Programme @WRP"
+    }
+   ]
   },
   {
    "name": "Woodlands Ring Secondary School",
@@ -12966,7 +15294,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "The Robotics Education & Enterprise (TREE)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Student Leadership Development through Involvement in the Community"
+    }
+   ]
   },
   {
    "name": "Woodlands Secondary School",
@@ -13005,7 +15344,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Health and Food Science",
+     "title": "Real Food, Real Science"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Paying it Forward: WDL�s Glocal Leadership Programme"
+    }
+   ]
   },
   {
    "name": "Xinghua Primary School",
@@ -13045,7 +15395,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Environmental Education in Xinghua"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Visual Arts & Design",
+     "title": "Confidence Building and Critical Thinking through the Visual Arts"
+    }
+   ]
   },
   {
    "name": "Xingnan Primary School",
@@ -13086,7 +15447,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Material Science",
+     "title": "Xingnan Explorers"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "FLAIR@XINGNAN � An experience with Performing Arts"
+    }
+   ]
   },
   {
    "name": "Xinmin Primary School",
@@ -13126,7 +15498,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "GLOBE@Xinmin Pri Sch (Green Lifestyle Observed By Everyone)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Cultivating a Life of Values and Excellence (CLOVE)"
+    }
+   ]
   },
   {
    "name": "Xinmin Secondary School",
@@ -13206,7 +15589,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Languages",
+     "title": "News Enrichment Xishanites Unitedly Share (NEXUS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Developing Confident Leaders through Mental Skills Empowerment and Values In Action"
+    }
+   ]
   },
   {
    "name": "Yangzheng Primary School",
@@ -13246,7 +15640,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Innovation & Enterprise",
+     "title": "Future-Makers Eco-Champions (FMEC) @ YZ"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "4H Leadership @ YZPS"
+    }
+   ]
   },
   {
    "name": "Yew Tee Primary School",
@@ -13286,7 +15691,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "D.R.E.A.M.@Yew Tee (Developing Reflective Learners, Empowering Creative Minds)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Holistic Enriching and Rewarding Outdoor Education & Sports (HEROES) @ YTPS"
+    }
+   ]
   },
   {
    "name": "Yio Chu Kang Primary School",
@@ -13326,7 +15742,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "ESTEM@YCKPS (ALP in Environmental STEM-based applied learning at YCKPS)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "CREATE@YCKPS"
+    }
+   ]
   },
   {
    "name": "Yio Chu Kang Secondary School",
@@ -13365,7 +15792,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "To nurture inquiring minds and inventive thinkers through technology"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Character Development through the Arts, Media and Design"
+    }
+   ]
   },
   {
    "name": "Yishun Innova Junior College",
@@ -13448,7 +15886,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Be Environmentally Green, Don't Leave Your Footprint"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Viva De Symphonie � Championing Values: Living, Learning and Growing through Music"
+    }
+   ]
   },
   {
    "name": "Yishun Secondary School",
@@ -13489,7 +15938,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Aesthetics",
+     "title": "ALP in Sonic Arts (Music, Media & Technology)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Leading with Empathy, Serving with Compassion through the Arts"
+    }
+   ]
   },
   {
    "name": "Yishun Town Secondary School",
@@ -13570,7 +16030,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "ICT & Media",
+     "title": "Tech4Good"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "GOal GR3IT"
+    }
+   ]
   },
   {
    "name": "Yuan Ching Secondary School",
@@ -13610,7 +16081,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "Marine Robotics"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "gRowing Values Through Sports and Outdoor Experiences"
+    }
+   ]
   },
   {
    "name": "Yuhua Primary School",
@@ -13649,7 +16131,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Think@Yuhua � Developing Critical and Creative Thinkers"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "Building Good Character through Music and the Performing Arts"
+    }
+   ]
   },
   {
    "name": "Yuhua Secondary School",
@@ -13691,7 +16184,18 @@
    "programmes": [
     "ENHANCED MUSIC PROGRAMME"
    ],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Emerging Technologies",
+     "title": "Coding, Design, Thinking and Robotics (CODER)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts",
+     "title": "M.E.L.O.D.Y. (Music Empowered Leaners, Our Dynamic Yuhuans)"
+    }
+   ]
   },
   {
    "name": "Yumin Primary School",
@@ -13730,7 +16234,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Game Design and Making",
+     "title": "I3QUEST �Question, Imagine, Innovate, Inspire"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Developing Flourishing, Compassionate Yumin Champions who are rooted to Singapore"
+    }
+   ]
   },
   {
    "name": "Yusof Ishak Secondary School",
@@ -13771,7 +16286,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "STEM for the Strategic Development of a Sustainable and Smart City (S4TEM@YI)"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "Nurturing Honourable Leaders for Tomorrow (YI LEAD+)"
+    }
+   ]
   },
   {
    "name": "Yuying Secondary School",
@@ -13813,7 +16339,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Business & Entrepreneurship",
+     "title": "Fostering Innovation through Design Thinking"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Youth Leadership",
+     "title": "YUYING C.A.R.E.S - Collaborate, Act, Reflect, Empathise, Serve"
+    }
+   ]
   },
   {
    "name": "Zhangde Primary School",
@@ -13853,7 +16390,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Developing Zhangde GIVER3S Values Through Environment Education"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "DARE@ZPS (Discover, Adventure, Relationship building, Espirit de-Corps)"
+    }
+   ]
   },
   {
    "name": "Zhenghua Primary School",
@@ -13893,7 +16441,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "Interdisciplinary",
+     "title": "Advocates and Innovators for Sustainable Living"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Music & Performing Arts/ Visual Arts & Design",
+     "title": "Creative Arts @ Zhenghua"
+    }
+   ]
   },
   {
    "name": "Zhenghua Secondary School",
@@ -13934,7 +16493,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Future of Transportation",
+     "title": "Future of Transportation"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Sports & Outdoor Education",
+     "title": "Outdoor Education for Character & Leadership Development"
+    }
+   ]
   },
   {
    "name": "Zhonghua Primary School",
@@ -13973,7 +16543,18 @@
     "Visual And Performing Arts"
    ],
    "programmes": [],
-   "distinctive": []
+   "distinctive": [
+    {
+     "kind": "ALP",
+     "domain": "STEM - Sustainability",
+     "title": "Thinknovate@ZPS"
+    },
+    {
+     "kind": "LLP",
+     "domain": "Community Service & Student Leadership",
+     "title": "Green Education Movement @ Zhonghua Primary School (GEM@ZPS)"
+    }
+   ]
   },
   {
    "name": "Zhonghua Secondary School",
